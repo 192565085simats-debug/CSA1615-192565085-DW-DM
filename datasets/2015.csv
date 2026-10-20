@@ -1,0 +1,1001 @@
+Reference Number,Grid Ref: Easting,Grid Ref: Northing,Number of Vehicles,Accident Date,Time (24hr),1st Road Class,Road Surface,Lighting Conditions,Weather Conditions,Casualty Class,Casualty Severity,Sex of Casualty,Age of Casualty,Type of Vehicle
+21K0001,438380,415386,3,2015-05-14,15:43,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Serious,Male,51,Goods Vehicle
+21K0002,439517,434083,2,2015-05-14,15:30,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,43,Car
+21K0003,403751,423332,2,2015-05-14,03:00,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,35,Motorcycle
+21K0004,424145,429616,3,2015-05-14,16:26,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Male,69,Goods Vehicle
+21K0005,415306,439764,3,2015-05-14,12:47,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Female,24,Bus or Coach
+21K0006,439791,412784,2,2015-05-14,16:56,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,73,Car
+21K0007,429247,407581,3,2015-05-14,21:34,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,28,Bus or Coach
+21K0008,425132,418373,2,2015-05-14,23:16,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,32,Car
+21K0009,442204,422493,3,2015-05-14,22:47,Motorway,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Male,36,Car
+21K0010,405841,422297,2,2015-05-14,23:07,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,72,Car
+21K0011,427767,420948,2,2015-05-14,21:59,A,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,32,Car
+21K0012,429870,409661,2,2015-05-14,04:47,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Serious,Female,48,Car
+21K0013,414136,432441,2,2015-05-14,22:24,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,73,Goods Vehicle
+21K0014,447670,425677,2,2015-05-14,21:58,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,36,Car
+21K0015,412785,445947,3,2015-05-14,03:08,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Passenger,Slight,Male,26,Car
+21K0016,431617,419076,2,2015-05-14,06:13,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,27,Car
+21K0017,427991,444528,2,2015-05-14,01:06,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,27,Car
+21K0018,426476,416056,1,2015-05-14,03:15,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Serious,Female,23,Goods Vehicle
+21K0019,418036,441440,3,2015-05-14,11:00,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,54,Car
+21K0020,445464,448847,1,2015-05-14,18:11,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,73,Motorcycle
+21K0021,426563,445923,1,2015-05-14,12:35,Motorway,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Female,60,Motorcycle
+21K0022,439262,445561,2,2015-05-14,00:35,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,20,Car
+21K0023,408173,433170,2,2015-05-14,11:34,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,36,Car
+21K0024,429158,409165,3,2015-05-14,22:20,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,33,Car
+21K0025,409284,419641,2,2015-05-14,04:38,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,59,Goods Vehicle
+21K0026,429888,405456,2,2015-05-14,21:27,A,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,54,Car
+21K0027,433516,439645,2,2015-05-14,13:52,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,25,Car
+21K0028,426658,404322,2,2015-05-14,20:05,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,32,Car
+21K0029,406881,408093,2,2015-05-14,16:46,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,21,Car
+21K0030,449274,425530,2,2015-05-14,11:51,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,42,Car
+21K0031,417522,403464,2,2015-05-14,22:49,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,45,Car
+21K0032,447085,414992,2,2015-05-14,20:54,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Male,23,Car
+21K0033,403762,405543,2,2015-05-14,17:59,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,50,Car
+21K0034,444353,434891,1,2015-05-14,12:00,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,70,Car
+21K0035,439804,429402,2,2015-05-14,21:59,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,28,Car
+21K0036,407420,422148,2,2015-05-14,17:54,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,37,Car
+21K0037,430346,440484,3,2015-05-14,01:22,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,18,Car
+21K0038,432246,412946,1,2015-05-14,16:32,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,41,Car
+21K0039,411939,435155,2,2015-05-14,03:28,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,30,Car
+21K0040,408760,425856,3,2015-05-14,23:21,A,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Male,69,Car
+21K0041,408351,421291,3,2015-05-14,16:46,Motorway,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,61,Car
+21K0042,444453,422422,3,2015-05-14,19:47,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,29,Car
+21K0043,407537,417270,2,2015-05-14,21:52,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Female,55,Car
+21K0044,409746,415032,1,2015-05-14,04:25,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,44,Car
+21K0045,445885,441504,2,2015-05-14,07:21,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,63,Car
+21K0046,420961,403116,2,2015-05-14,01:00,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,49,Car
+21K0047,419946,407309,1,2015-05-14,21:00,A,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,35,Car
+21K0048,425169,405716,1,2015-05-14,04:40,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Female,22,Bus or Coach
+21K0049,419757,447536,3,2015-05-14,06:34,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Serious,Female,46,Car
+21K0050,407695,428581,1,2015-05-14,15:26,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Serious,Male,54,Car
+21K0051,445469,412464,3,2015-05-14,15:43,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,56,Car
+21K0052,412062,400235,2,2015-05-14,18:13,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,72,Car
+21K0053,446416,417597,1,2015-05-14,05:14,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,59,Motorcycle
+21K0054,435035,407614,1,2015-05-14,20:22,B,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Female,36,Car
+21K0055,403752,441022,1,2015-05-14,11:14,B,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Female,42,Bus or Coach
+21K0056,441040,441569,2,2015-05-14,14:14,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,45,Car
+21K0057,431392,406140,3,2015-05-14,05:29,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,74,Car
+21K0058,425834,445047,2,2015-05-14,02:09,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Female,69,Car
+21K0059,406535,424764,3,2015-05-14,00:07,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Female,68,Car
+21K0060,448243,422176,1,2015-05-14,06:08,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,62,Car
+21K0061,435626,408065,1,2015-05-14,01:06,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,42,Car
+21K0062,442949,418798,2,2015-05-14,21:24,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Passenger,Slight,Female,25,Car
+21K0063,405557,402840,2,2015-05-14,05:27,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,74,Car
+21K0064,432718,443367,2,2015-05-14,08:51,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Male,64,Goods Vehicle
+21K0065,404411,407416,3,2015-05-14,23:17,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,44,Car
+21K0066,441720,421853,2,2015-05-14,20:58,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,55,Motorcycle
+21K0067,446077,405718,2,2015-05-14,11:00,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,41,Motorcycle
+21K0068,419313,430172,2,2015-05-14,17:59,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,64,Car
+21K0069,427833,424358,1,2015-05-14,22:06,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,18,Car
+21K0070,427295,409811,2,2015-05-14,15:47,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Passenger,Slight,Female,36,Car
+21K0071,403932,442103,1,2015-05-14,19:48,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,54,Car
+21K0072,446488,414897,3,2015-05-14,05:17,Motorway,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,65,Car
+21K0073,445378,430699,3,2015-05-14,10:41,Motorway,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,56,Bus or Coach
+21K0074,401838,415697,2,2015-05-14,05:34,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,33,Car
+21K0075,437363,437014,1,2015-05-14,18:50,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Serious,Male,38,Bus or Coach
+21K0076,408488,446049,1,2015-05-14,10:26,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Passenger,Slight,Female,36,Car
+21K0077,444720,430350,1,2015-05-14,20:05,A,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Serious,Male,64,Car
+21K0078,434294,422374,3,2015-05-14,04:21,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Male,57,Car
+21K0079,409987,437152,3,2015-05-14,03:51,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,28,Motorcycle
+21K0080,404467,418357,2,2015-05-14,11:05,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Passenger,Slight,Male,25,Goods Vehicle
+21K0081,402594,423820,2,2015-05-14,12:26,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,46,Car
+21K0082,444731,402796,1,2015-05-14,23:50,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,22,Car
+21K0083,430295,443853,1,2015-05-14,11:29,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,43,Motorcycle
+21K0084,426314,421543,1,2015-05-14,10:21,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,27,Car
+21K0085,420983,437237,1,2015-05-14,19:49,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,66,Car
+21K0086,417684,416519,2,2015-05-14,02:09,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,29,Car
+21K0087,428084,422414,2,2015-05-14,05:12,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,62,Car
+21K0088,400650,436759,2,2015-05-14,02:46,A,Dry,Darkness: street lights present and lit,Raining without high winds,Pedestrian,Slight,Male,75,Car
+21K0089,409665,432731,2,2015-05-14,03:50,Motorway,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,55,Car
+21K0090,414327,448870,2,2015-05-14,13:44,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,70,Car
+21K0091,419788,420117,1,2015-05-14,22:31,Motorway,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Serious,Male,29,Car
+21K0092,424452,411593,2,2015-05-14,17:27,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,72,Car
+21K0093,405742,406803,1,2015-05-14,20:01,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,69,Car
+21K0094,418999,427567,2,2015-05-14,07:49,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,44,Goods Vehicle
+21K0095,400498,424552,2,2015-05-14,16:18,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Female,44,Car
+21K0096,401720,410051,2,2015-05-14,16:52,B,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Serious,Male,59,Car
+21K0097,403380,437870,3,2015-05-14,04:40,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,26,Car
+21K0098,441382,437809,3,2015-05-14,20:58,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,55,Car
+21K0099,440507,446371,1,2015-05-14,18:24,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,37,Car
+21K0100,416072,447599,3,2015-05-14,08:42,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,25,Car
+21K0101,418511,417170,2,2015-05-14,02:04,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,58,Car
+21K0102,445045,427519,3,2015-05-14,10:40,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,39,Goods Vehicle
+21K0103,440239,439321,1,2015-05-14,05:33,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,25,Car
+21K0104,421465,409080,2,2015-05-14,02:46,A,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,65,Goods Vehicle
+21K0105,433597,426210,2,2015-05-14,08:11,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,28,Goods Vehicle
+21K0106,428407,429239,3,2015-05-14,19:47,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,70,Car
+21K0107,410960,402212,2,2015-05-14,18:26,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,38,Car
+21K0108,412184,423445,2,2015-05-14,02:13,B,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,68,Car
+21K0109,415246,436807,1,2015-05-14,12:18,A,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,44,Car
+21K0110,428521,420826,2,2015-05-14,06:12,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,55,Car
+21K0111,437775,401393,2,2015-05-14,00:41,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Serious,Female,20,Car
+21K0112,401066,404551,3,2015-05-14,03:53,B,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,43,Car
+21K0113,429791,432331,1,2015-05-14,11:39,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Male,23,Car
+21K0114,424174,435229,1,2015-05-14,22:55,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,68,Bus or Coach
+21K0115,445787,411163,2,2015-05-14,18:29,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,51,Car
+21K0116,437872,431321,3,2015-05-14,08:20,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,60,Car
+21K0117,413493,445545,1,2015-05-14,02:31,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,55,Bus or Coach
+21K0118,449839,420435,3,2015-05-14,20:09,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,30,Car
+21K0119,427727,410760,2,2015-05-14,18:41,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,48,Car
+21K0120,429664,423065,2,2015-05-14,03:59,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,41,Car
+21K0121,442508,425068,3,2015-05-14,06:18,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,33,Motorcycle
+21K0122,407548,403482,1,2015-05-14,18:17,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Passenger,Slight,Male,64,Bus or Coach
+21K0123,432451,413481,2,2015-05-14,06:22,B,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,62,Car
+21K0124,420651,444659,1,2015-05-14,05:11,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,74,Car
+21K0125,444512,449824,1,2015-05-14,19:22,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,32,Car
+21K0126,410964,449479,2,2015-05-14,03:06,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,47,Car
+21K0127,423109,419735,2,2015-05-14,16:49,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,60,Bus or Coach
+21K0128,432625,402025,2,2015-05-14,18:47,Motorway,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,58,Car
+21K0129,429443,434531,2,2015-05-14,08:58,B,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,39,Car
+21K0130,428407,429820,2,2015-05-14,09:07,Motorway,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,28,Car
+21K0131,418891,404234,2,2015-05-14,00:29,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,18,Car
+21K0132,409025,422951,2,2015-05-14,16:42,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,32,Car
+21K0133,423241,416300,3,2015-05-14,13:25,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,69,Car
+21K0134,444782,413074,2,2015-05-14,04:26,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,74,Car
+21K0135,409083,434509,3,2015-05-14,22:20,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,53,Car
+21K0136,427585,405795,2,2015-05-14,19:58,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,66,Motorcycle
+21K0137,426407,443914,1,2015-05-14,14:51,Motorway,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,36,Car
+21K0138,445258,421712,1,2015-05-14,03:47,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,26,Car
+21K0139,444281,441921,2,2015-05-14,09:40,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,74,Car
+21K0140,406348,416200,2,2015-05-14,03:30,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,33,Bus or Coach
+21K0141,440157,444651,3,2015-05-14,21:39,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,52,Car
+21K0142,431487,419007,2,2015-05-14,21:06,Motorway,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,19,Car
+21K0143,407872,436976,3,2015-05-14,00:37,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Serious,Female,47,Goods Vehicle
+21K0144,418147,400597,2,2015-05-14,11:32,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,64,Car
+21K0145,430112,446870,2,2015-05-14,08:50,B,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Serious,Female,29,Car
+21K0146,433225,443182,2,2015-05-14,04:44,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,28,Car
+21K0147,443598,406961,3,2015-05-14,21:30,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Serious,Male,75,Car
+21K0148,427528,404218,1,2015-05-14,19:16,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,38,Car
+21K0149,429459,424748,2,2015-05-14,20:36,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,51,Motorcycle
+21K0150,405637,438149,1,2015-05-14,20:42,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,29,Car
+21K0151,447728,442089,3,2015-05-14,06:53,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,58,Car
+21K0152,404644,437299,1,2015-05-14,04:50,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,36,Bus or Coach
+21K0153,425586,446089,2,2015-05-14,02:55,B,Dry,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Female,52,Car
+21K0154,407266,438192,3,2015-05-14,08:41,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,39,Car
+21K0155,415441,432345,1,2015-05-14,18:57,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,26,Car
+21K0156,402735,406819,1,2015-05-14,15:32,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,67,Motorcycle
+21K0157,435008,439854,3,2015-05-14,21:43,Motorway,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,46,Car
+21K0158,440347,424098,2,2015-05-14,06:21,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,68,Car
+21K0159,403000,400976,2,2015-05-14,01:04,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,26,Car
+21K0160,431372,443095,1,2015-05-14,21:04,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,41,Bus or Coach
+21K0161,442837,416004,2,2015-05-14,10:44,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,26,Motorcycle
+21K0162,419984,448621,2,2015-05-14,03:23,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,35,Car
+21K0163,425177,419687,1,2015-05-14,01:17,Motorway,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,45,Car
+21K0164,443280,419998,1,2015-05-14,17:48,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Passenger,Slight,Female,66,Car
+21K0165,447565,440732,3,2015-05-14,13:50,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Passenger,Serious,Female,47,Car
+21K0166,447134,437244,2,2015-05-14,05:24,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,33,Bus or Coach
+21K0167,422120,437426,3,2015-05-14,01:39,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,38,Motorcycle
+21K0168,429085,430325,1,2015-05-14,14:00,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,35,Bus or Coach
+21K0169,404197,428864,2,2015-05-14,08:49,B,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,25,Car
+21K0170,412075,444855,3,2015-05-14,18:20,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,72,Car
+21K0171,439359,415381,2,2015-05-14,03:04,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,22,Car
+21K0172,418552,409376,1,2015-05-14,10:38,B,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Passenger,Slight,Male,20,Car
+21K0173,409834,438746,1,2015-05-14,03:38,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,71,Car
+21K0174,443061,447596,2,2015-05-14,12:48,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Serious,Female,64,Car
+21K0175,448040,407945,1,2015-05-14,19:30,Motorway,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,41,Car
+21K0176,420631,449033,1,2015-05-14,22:15,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,48,Car
+21K0177,429423,427449,2,2015-05-14,18:52,A,Wet / Damp,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Male,36,Car
+21K0178,407730,405341,3,2015-05-14,13:32,Motorway,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Male,66,Car
+21K0179,430792,448683,1,2015-05-14,04:55,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Serious,Female,75,Car
+21K0180,408352,426366,2,2015-05-14,22:18,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Serious,Male,65,Goods Vehicle
+21K0181,426796,441342,3,2015-05-14,23:53,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Serious,Female,23,Car
+21K0182,400510,438899,2,2015-05-14,21:41,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,49,Car
+21K0183,436970,433926,3,2015-05-14,09:20,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Male,54,Bus or Coach
+21K0184,406518,422763,2,2015-05-14,05:07,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Serious,Female,32,Car
+21K0185,409240,406289,2,2015-05-14,17:53,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,71,Bus or Coach
+21K0186,413313,418470,3,2015-05-14,23:28,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,34,Car
+21K0187,408966,418248,1,2015-05-14,11:51,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,50,Car
+21K0188,404855,446321,2,2015-05-14,01:27,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,58,Car
+21K0189,416116,408970,3,2015-05-14,07:43,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,23,Motorcycle
+21K0190,400209,428463,1,2015-05-14,15:35,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,51,Car
+21K0191,411800,419667,2,2015-05-14,09:42,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,74,Bus or Coach
+21K0192,427498,429305,2,2015-05-14,07:42,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,74,Car
+21K0193,432058,439390,3,2015-05-14,21:15,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,61,Car
+21K0194,425649,428963,3,2015-05-14,12:16,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,74,Car
+21K0195,413513,440978,1,2015-05-14,19:39,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,40,Car
+21K0196,442921,403225,2,2015-05-14,11:34,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,39,Car
+21K0197,436238,448059,2,2015-05-14,00:02,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,62,Car
+21K0198,417855,449146,1,2015-05-14,12:41,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Female,64,Car
+21K0199,400966,448670,2,2015-05-14,03:47,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Passenger,Slight,Male,35,Car
+21K0200,406532,417319,3,2015-05-14,12:18,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,42,Car
+21K0201,432573,447681,3,2015-05-14,11:48,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,54,Car
+21K0202,420356,421786,2,2015-05-14,20:05,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,48,Car
+21K0203,437135,449845,2,2015-05-14,01:49,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,73,Car
+21K0204,445245,413711,3,2015-05-14,17:31,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,23,Goods Vehicle
+21K0205,445826,405079,3,2015-05-14,04:48,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,28,Car
+21K0206,434379,431928,2,2015-05-14,23:55,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,51,Car
+21K0207,424355,436949,2,2015-05-14,04:18,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,39,Motorcycle
+21K0208,410763,434365,3,2015-05-14,00:20,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,52,Car
+21K0209,406207,404004,3,2015-05-14,19:10,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,73,Car
+21K0210,447796,420037,2,2015-05-14,19:49,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,35,Car
+21K0211,436940,406705,2,2015-05-14,16:37,Motorway,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,60,Motorcycle
+21K0212,411016,400175,2,2015-05-14,06:05,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,69,Car
+21K0213,443571,430912,2,2015-05-14,09:32,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,51,Car
+21K0214,439674,414018,2,2015-05-14,20:53,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,45,Car
+21K0215,411666,401657,2,2015-05-14,14:49,Motorway,Dry,Daylight: street lights present,Raining without high winds,Passenger,Slight,Female,18,Car
+21K0216,423657,434472,2,2015-05-14,00:37,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,59,Car
+21K0217,402878,445580,2,2015-05-14,08:40,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,29,Car
+21K0218,442437,449190,1,2015-05-14,01:23,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,25,Car
+21K0219,441777,446569,1,2015-05-14,10:06,B,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,38,Motorcycle
+21K0220,438459,447325,2,2015-05-14,16:00,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,35,Car
+21K0221,429058,402916,2,2015-05-14,19:12,Motorway,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,39,Car
+21K0222,445632,405642,3,2015-05-14,02:07,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,41,Car
+21K0223,447466,416169,2,2015-05-14,21:41,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,54,Car
+21K0224,414808,412336,2,2015-05-14,06:11,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,46,Motorcycle
+21K0225,402407,438353,3,2015-05-14,04:34,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,50,Car
+21K0226,448701,417625,1,2015-05-14,16:49,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,47,Car
+21K0227,424397,436947,3,2015-05-14,21:37,B,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,59,Motorcycle
+21K0228,423462,420072,2,2015-05-14,14:34,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,71,Car
+21K0229,447406,424459,2,2015-05-14,15:43,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Male,35,Goods Vehicle
+21K0230,438867,401871,2,2015-05-14,16:10,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,67,Car
+21K0231,422682,430062,3,2015-05-14,05:29,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,23,Motorcycle
+21K0232,444873,436395,2,2015-05-14,00:30,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,47,Car
+21K0233,425400,408421,2,2015-05-14,04:25,B,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,65,Car
+21K0234,414528,439880,2,2015-05-14,07:23,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,49,Car
+21K0235,413843,419787,3,2015-05-14,02:21,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,44,Car
+21K0236,426097,444717,1,2015-05-14,14:51,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,50,Car
+21K0237,429798,400759,3,2015-05-14,20:42,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,46,Car
+21K0238,431034,446663,2,2015-05-14,17:23,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,63,Car
+21K0239,412950,433744,3,2015-05-14,13:03,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,45,Car
+21K0240,419408,401542,2,2015-05-14,05:18,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,65,Car
+21K0241,411484,405508,1,2015-05-14,04:46,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,75,Goods Vehicle
+21K0242,402663,405015,2,2015-05-14,11:02,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Serious,Male,58,Goods Vehicle
+21K0243,426262,401466,2,2015-05-14,23:16,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,50,Car
+21K0244,415974,445498,1,2015-05-14,11:36,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,43,Bus or Coach
+21K0245,417870,400331,3,2015-05-14,06:01,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,63,Car
+21K0246,404176,440067,2,2015-05-14,23:45,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,39,Car
+21K0247,429123,409946,3,2015-05-14,23:31,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,58,Car
+21K0248,422629,405445,2,2015-05-14,23:33,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,40,Car
+21K0249,427223,401534,2,2015-05-14,17:47,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,31,Car
+21K0250,407250,437404,2,2015-05-14,05:55,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,56,Car
+21K0251,423801,441305,1,2015-05-14,21:56,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,46,Car
+21K0252,411640,426217,2,2015-05-14,00:34,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,30,Car
+21K0253,440558,414692,2,2015-05-14,19:39,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,58,Car
+21K0254,405961,424267,1,2015-05-14,23:38,Motorway,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Female,29,Car
+21K0255,446713,413093,2,2015-05-14,04:18,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Serious,Female,47,Car
+21K0256,407284,439584,2,2015-05-14,05:15,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Serious,Female,22,Bus or Coach
+21K0257,446922,435215,1,2015-05-14,22:49,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Male,63,Goods Vehicle
+21K0258,428087,408130,1,2015-05-14,04:54,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,33,Motorcycle
+21K0259,417334,406365,2,2015-05-14,20:44,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,68,Car
+21K0260,416903,437239,2,2015-05-14,19:02,A,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,63,Car
+21K0261,441542,419971,3,2015-05-14,22:28,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,19,Bus or Coach
+21K0262,409723,438288,1,2015-05-14,08:23,Motorway,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Male,51,Car
+21K0263,431801,442492,2,2015-05-14,16:30,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,35,Car
+21K0264,447760,407837,2,2015-05-14,11:31,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Pedestrian,Serious,Female,41,Car
+21K0265,426115,441051,1,2015-05-14,10:32,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,33,Car
+21K0266,448459,411972,2,2015-05-14,07:44,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,22,Motorcycle
+21K0267,434246,419841,1,2015-05-14,06:14,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,30,Car
+21K0268,428960,405464,3,2015-05-14,06:06,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,74,Car
+21K0269,442115,412766,3,2015-05-14,00:16,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,73,Car
+21K0270,422357,418041,2,2015-05-14,20:28,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,22,Bus or Coach
+21K0271,406197,429045,2,2015-05-14,20:43,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,51,Car
+21K0272,444875,419664,2,2015-05-14,18:43,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Male,51,Goods Vehicle
+21K0273,447609,417654,2,2015-05-14,08:30,B,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,43,Car
+21K0274,449953,426481,1,2015-05-14,13:22,A,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,71,Car
+21K0275,421092,428016,3,2015-05-14,10:35,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,64,Car
+21K0276,447268,438858,3,2015-05-14,01:49,Motorway,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,52,Car
+21K0277,418627,407276,3,2015-05-14,04:56,B,Wet / Damp,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Male,23,Car
+21K0278,421485,437534,2,2015-05-14,17:33,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Pedestrian,Slight,Female,75,Motorcycle
+21K0279,412067,421054,3,2015-05-14,07:29,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Serious,Male,59,Car
+21K0280,425972,431873,1,2015-05-14,16:03,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,49,Car
+21K0281,421872,441574,1,2015-05-14,23:04,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,59,Car
+21K0282,444823,428242,2,2015-05-14,14:28,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,70,Car
+21K0283,426310,437666,2,2015-05-14,00:39,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,47,Car
+21K0284,413128,437646,2,2015-05-14,22:55,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,20,Bus or Coach
+21K0285,404539,421460,2,2015-05-14,07:42,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,74,Goods Vehicle
+21K0286,408068,424583,1,2015-05-14,14:55,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,23,Car
+21K0287,410674,449584,2,2015-05-14,03:31,B,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,25,Car
+21K0288,400475,424905,3,2015-05-14,12:54,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,23,Car
+21K0289,425538,430891,1,2015-05-14,08:46,B,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,48,Car
+21K0290,439072,413751,2,2015-05-14,11:39,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Female,41,Car
+21K0291,410641,401964,3,2015-05-14,06:19,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,48,Car
+21K0292,409459,426716,1,2015-05-14,17:24,A,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Serious,Male,48,Car
+21K0293,427202,435174,3,2015-05-14,04:54,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,57,Car
+21K0294,406317,431312,3,2015-05-14,23:53,A,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,63,Car
+21K0295,440305,406896,2,2015-05-14,07:16,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Female,35,Motorcycle
+21K0296,421492,427657,2,2015-05-14,21:09,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,29,Car
+21K0297,441591,402235,2,2015-05-14,05:25,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,46,Goods Vehicle
+21K0298,440718,417223,3,2015-05-14,03:47,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Passenger,Slight,Female,67,Car
+21K0299,443466,406324,2,2015-05-14,16:16,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,25,Car
+21K0300,446707,419379,2,2015-05-14,11:19,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Female,50,Car
+21K0301,444602,414539,1,2015-05-14,06:46,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,51,Car
+21K0302,410403,406562,2,2015-05-14,20:40,A,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Male,21,Goods Vehicle
+21K0303,419431,425544,3,2015-05-14,15:29,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,57,Car
+21K0304,404378,403881,3,2015-05-14,04:09,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Passenger,Slight,Female,43,Car
+21K0305,416290,422964,1,2015-05-14,07:17,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,66,Car
+21K0306,441730,407686,2,2015-05-14,16:06,Motorway,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,74,Bus or Coach
+21K0307,417832,402685,3,2015-05-14,08:07,Motorway,Dry,Darkness: street lights present and lit,Fine without high winds,Passenger,Slight,Male,64,Car
+21K0308,439259,423760,2,2015-05-14,21:31,Motorway,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,34,Car
+21K0309,421550,427501,2,2015-05-14,11:05,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,67,Goods Vehicle
+21K0310,436744,439756,3,2015-05-14,19:33,Motorway,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,66,Car
+21K0311,438018,444080,3,2015-05-14,12:45,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,58,Goods Vehicle
+21K0312,443848,401680,2,2015-05-14,18:11,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Female,40,Bus or Coach
+21K0313,423093,416298,2,2015-05-14,14:50,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,59,Car
+21K0314,426300,449369,2,2015-05-14,05:54,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,64,Car
+21K0315,426611,420507,3,2015-05-14,20:11,A,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,38,Car
+21K0316,412438,438131,2,2015-05-14,16:44,B,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,74,Car
+21K0317,417260,409552,2,2015-05-14,17:22,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Passenger,Slight,Female,38,Goods Vehicle
+21K0318,402672,416115,2,2015-05-14,21:17,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,18,Car
+21K0319,401361,440122,3,2015-05-14,14:26,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,75,Bus or Coach
+21K0320,446317,423853,2,2015-05-14,13:23,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,70,Motorcycle
+21K0321,435276,437942,2,2015-05-14,03:58,Motorway,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,53,Motorcycle
+21K0322,430493,417637,1,2015-05-14,14:39,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,75,Car
+21K0323,446288,409691,1,2015-05-14,21:22,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Male,66,Goods Vehicle
+21K0324,414103,443371,3,2015-05-14,09:34,B,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,55,Car
+21K0325,400444,439950,1,2015-05-14,22:48,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,33,Motorcycle
+21K0326,411877,401932,3,2015-05-14,23:07,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,72,Car
+21K0327,406282,420394,2,2015-05-14,05:45,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,23,Car
+21K0328,449270,406162,2,2015-05-14,00:56,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,19,Bus or Coach
+21K0329,404547,411297,2,2015-05-14,20:39,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,75,Car
+21K0330,411632,433248,2,2015-05-14,14:01,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,75,Car
+21K0331,412658,439551,2,2015-05-14,19:58,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,33,Car
+21K0332,415692,432162,2,2015-05-14,12:02,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Pedestrian,Slight,Female,72,Car
+21K0333,443483,442913,2,2015-05-14,16:36,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,30,Car
+21K0334,441047,427939,3,2015-05-14,13:24,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,67,Car
+21K0335,444830,445803,1,2015-05-14,16:53,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,21,Car
+21K0336,403093,419853,3,2015-05-14,06:22,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,61,Car
+21K0337,414057,406465,3,2015-05-14,05:57,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,42,Car
+21K0338,445179,407623,2,2015-05-14,00:57,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Female,20,Car
+21K0339,439239,416133,2,2015-05-14,13:43,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Serious,Male,18,Car
+21K0340,427108,424715,2,2015-05-14,06:52,B,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,22,Car
+21K0341,407554,410415,3,2015-05-14,02:11,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Male,36,Bus or Coach
+21K0342,407110,449872,1,2015-05-14,12:52,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,24,Car
+21K0343,402492,425432,2,2015-05-14,02:48,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,50,Motorcycle
+21K0344,413790,447507,2,2015-05-14,01:36,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,21,Car
+21K0345,410033,419123,1,2015-05-14,07:11,B,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,53,Car
+21K0346,435856,420811,1,2015-05-14,03:43,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,24,Car
+21K0347,400386,424983,1,2015-05-14,18:03,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,48,Goods Vehicle
+21K0348,418511,444932,3,2015-05-14,14:58,Motorway,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Serious,Male,52,Motorcycle
+21K0349,409463,418799,2,2015-05-14,12:16,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,72,Car
+21K0350,426360,408193,2,2015-05-14,06:25,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,43,Car
+21K0351,434729,413494,2,2015-05-14,06:45,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Serious,Male,66,Bus or Coach
+21K0352,442205,420112,2,2015-05-14,12:09,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Male,39,Car
+21K0353,410270,443230,3,2015-05-14,16:27,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Serious,Female,67,Car
+21K0354,426337,437687,2,2015-05-14,04:26,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,51,Car
+21K0355,444314,406361,1,2015-05-14,02:01,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Serious,Male,27,Bus or Coach
+21K0356,404326,423785,2,2015-05-14,18:57,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,44,Car
+21K0357,440520,426848,2,2015-05-14,17:35,B,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Serious,Male,20,Car
+21K0358,424965,430986,3,2015-05-14,15:10,B,Wet / Damp,Daylight: street lights present,Fine without high winds,Passenger,Serious,Male,74,Car
+21K0359,405571,424246,1,2015-05-14,05:08,Motorway,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Serious,Male,63,Car
+21K0360,423246,439505,3,2015-05-14,00:39,Motorway,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,19,Car
+21K0361,410936,403408,2,2015-05-14,22:19,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,53,Car
+21K0362,440905,400699,1,2015-05-14,09:24,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,50,Goods Vehicle
+21K0363,426685,446352,2,2015-05-14,04:22,A,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,73,Car
+21K0364,407439,401507,2,2015-05-14,03:15,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,69,Car
+21K0365,440465,404612,2,2015-05-14,18:40,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,65,Motorcycle
+21K0366,406009,447071,1,2015-05-14,00:27,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,63,Motorcycle
+21K0367,430750,418878,1,2015-05-14,14:11,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Serious,Female,62,Motorcycle
+21K0368,412258,421063,2,2015-05-14,05:25,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,51,Car
+21K0369,444795,416493,2,2015-05-14,05:04,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Passenger,Slight,Female,63,Car
+21K0370,448776,444204,1,2015-05-14,10:37,B,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,40,Goods Vehicle
+21K0371,424277,432748,2,2015-05-14,15:20,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,68,Goods Vehicle
+21K0372,430384,430434,3,2015-05-14,04:09,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,43,Car
+21K0373,428467,443369,2,2015-05-14,04:37,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,37,Bus or Coach
+21K0374,414925,412448,3,2015-05-14,19:46,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Passenger,Serious,Male,38,Bus or Coach
+21K0375,409271,415410,3,2015-05-14,06:26,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,56,Car
+21K0376,418474,422354,2,2015-05-14,22:55,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,62,Car
+21K0377,420482,441541,3,2015-05-14,08:35,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Female,63,Car
+21K0378,415533,416324,3,2015-05-14,18:30,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,56,Bus or Coach
+21K0379,404386,429457,3,2015-05-14,06:50,A,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,57,Car
+21K0380,409576,417875,2,2015-05-14,15:20,A,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,65,Bus or Coach
+21K0381,416267,424642,3,2015-05-14,22:52,B,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,27,Car
+21K0382,425036,436389,2,2015-05-14,19:28,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,38,Car
+21K0383,403435,421399,3,2015-05-14,11:09,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,71,Bus or Coach
+21K0384,421234,437068,1,2015-05-14,16:03,A,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,23,Bus or Coach
+21K0385,422161,405318,3,2015-05-14,10:48,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,70,Car
+21K0386,410424,407552,2,2015-05-14,07:15,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,32,Motorcycle
+21K0387,432806,420936,2,2015-05-14,12:48,Motorway,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Male,30,Car
+21K0388,413686,415040,3,2015-05-14,00:22,B,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,57,Car
+21K0389,436455,424530,3,2015-05-14,05:53,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,19,Car
+21K0390,442690,444030,3,2015-05-14,06:11,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,37,Motorcycle
+21K0391,438879,419881,2,2015-05-14,14:03,A,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,29,Motorcycle
+21K0392,432741,447182,3,2015-05-14,23:20,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Female,60,Motorcycle
+21K0393,405090,440394,1,2015-05-14,00:54,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,28,Car
+21K0394,424120,414110,2,2015-05-14,13:47,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,47,Motorcycle
+21K0395,407885,441727,1,2015-05-14,15:11,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,62,Car
+21K0396,404147,447935,2,2015-05-14,06:04,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,75,Car
+21K0397,404129,418404,2,2015-05-14,23:30,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,59,Car
+21K0398,436910,428530,3,2015-05-14,07:45,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,41,Motorcycle
+21K0399,421018,448181,2,2015-05-14,13:11,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,61,Car
+21K0400,423614,428292,1,2015-05-14,19:16,B,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,39,Car
+21K0401,440964,409506,2,2015-05-14,17:40,A,Wet / Damp,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Female,74,Car
+21K0402,432858,435651,1,2015-05-14,16:06,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Male,25,Car
+21K0403,424466,435943,3,2015-05-14,16:42,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,71,Car
+21K0404,449369,412342,1,2015-05-14,16:51,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,52,Car
+21K0405,412517,401540,1,2015-05-14,00:18,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Serious,Male,40,Car
+21K0406,400692,445732,2,2015-05-14,10:24,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,20,Car
+21K0407,423035,402034,2,2015-05-14,22:30,Motorway,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Serious,Female,61,Car
+21K0408,401790,424901,1,2015-05-14,15:48,Motorway,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Serious,Male,65,Car
+21K0409,439558,430754,1,2015-05-14,10:19,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,61,Goods Vehicle
+21K0410,404528,432903,2,2015-05-14,14:17,Motorway,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,29,Bus or Coach
+21K0411,410665,402609,2,2015-05-14,19:21,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,65,Motorcycle
+21K0412,424688,402875,2,2015-05-14,05:14,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,24,Car
+21K0413,408650,448519,1,2015-05-14,14:31,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,20,Car
+21K0414,436522,446009,3,2015-05-14,02:04,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,26,Car
+21K0415,410616,405660,2,2015-05-14,21:12,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,44,Car
+21K0416,402605,415220,2,2015-05-14,04:19,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,51,Car
+21K0417,408982,420940,2,2015-05-14,15:51,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,72,Motorcycle
+21K0418,443717,408320,2,2015-05-14,02:30,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,34,Car
+21K0419,449307,428303,1,2015-05-14,10:49,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,26,Car
+21K0420,433393,426642,2,2015-05-14,07:38,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,67,Car
+21K0421,442034,402618,2,2015-05-14,08:25,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Male,48,Car
+21K0422,425303,449638,2,2015-05-14,15:21,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,35,Motorcycle
+21K0423,420516,421244,2,2015-05-14,18:12,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,60,Car
+21K0424,440177,409127,2,2015-05-14,06:43,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,33,Car
+21K0425,441513,422110,2,2015-05-14,20:51,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,56,Car
+21K0426,408154,424678,3,2015-05-14,00:04,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Male,44,Car
+21K0427,403341,428030,3,2015-05-14,19:06,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,72,Car
+21K0428,407042,435945,2,2015-05-14,04:50,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,57,Bus or Coach
+21K0429,428167,415773,2,2015-05-14,07:39,B,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,28,Goods Vehicle
+21K0430,413313,435501,1,2015-05-14,05:05,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Male,33,Car
+21K0431,410855,411373,2,2015-05-14,08:06,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Passenger,Slight,Male,23,Car
+21K0432,429106,429001,2,2015-05-14,23:56,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,68,Bus or Coach
+21K0433,421107,401357,3,2015-05-14,16:39,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,28,Motorcycle
+21K0434,414282,420592,2,2015-05-14,12:17,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,33,Car
+21K0435,404239,429638,1,2015-05-14,12:36,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,35,Car
+21K0436,417030,431360,2,2015-05-14,05:14,A,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,57,Car
+21K0437,403281,416409,1,2015-05-14,16:59,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,51,Car
+21K0438,406047,440694,1,2015-05-14,18:41,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,56,Car
+21K0439,406652,417632,2,2015-05-14,17:07,B,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,67,Car
+21K0440,401357,432827,1,2015-05-14,12:08,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,47,Car
+21K0441,411478,446544,1,2015-05-14,22:15,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,49,Car
+21K0442,425887,436065,3,2015-05-14,16:29,B,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,28,Car
+21K0443,432750,408273,1,2015-05-14,06:04,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,38,Car
+21K0444,449172,401051,2,2015-05-14,13:49,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,27,Car
+21K0445,414881,428772,2,2015-05-14,15:25,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,75,Car
+21K0446,406637,419360,2,2015-05-14,01:22,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,48,Car
+21K0447,431421,404440,2,2015-05-14,10:12,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,31,Car
+21K0448,424331,401582,3,2015-05-14,12:21,Motorway,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,49,Car
+21K0449,433683,402369,1,2015-05-14,04:59,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,23,Car
+21K0450,418072,425847,2,2015-05-14,01:02,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,53,Car
+21K0451,413802,400037,1,2015-05-14,05:54,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Serious,Male,23,Car
+21K0452,422461,440422,2,2015-05-14,15:16,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,61,Bus or Coach
+21K0453,438918,416075,2,2015-05-14,00:27,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,69,Car
+21K0454,409697,436373,2,2015-05-14,07:56,Motorway,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,54,Car
+21K0455,405316,415892,2,2015-05-14,19:30,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,19,Car
+21K0456,424273,407748,2,2015-05-14,07:31,Motorway,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,69,Car
+21K0457,410432,439189,2,2015-05-14,18:24,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,68,Motorcycle
+21K0458,403365,400136,3,2015-05-14,05:02,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,28,Bus or Coach
+21K0459,406551,402552,1,2015-05-14,01:39,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Passenger,Slight,Female,57,Car
+21K0460,440156,418641,2,2015-05-14,02:29,B,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,43,Motorcycle
+21K0461,445541,430976,3,2015-05-14,11:32,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Passenger,Slight,Male,47,Car
+21K0462,410172,402411,1,2015-05-14,01:37,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,55,Car
+21K0463,431561,428530,3,2015-05-14,03:59,B,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,22,Car
+21K0464,416526,425530,2,2015-05-14,15:29,Motorway,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Serious,Male,38,Motorcycle
+21K0465,400487,410759,2,2015-05-14,13:05,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,30,Goods Vehicle
+21K0466,402519,400604,2,2015-05-14,22:21,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,60,Bus or Coach
+21K0467,434791,425604,2,2015-05-14,13:49,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,39,Car
+21K0468,438621,441093,1,2015-05-14,15:53,Motorway,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,37,Car
+21K0469,415038,443806,2,2015-05-14,12:16,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,22,Bus or Coach
+21K0470,435078,435818,3,2015-05-14,00:32,B,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,67,Car
+21K0471,415390,425495,2,2015-05-14,05:34,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,64,Car
+21K0472,443087,419157,2,2015-05-14,13:10,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,58,Car
+21K0473,410195,407958,1,2015-05-14,07:04,B,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,47,Car
+21K0474,431538,443777,2,2015-05-14,02:22,B,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,69,Car
+21K0475,404157,410635,2,2015-05-14,10:10,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Passenger,Slight,Female,68,Car
+21K0476,433581,426375,2,2015-05-14,05:12,Motorway,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,67,Car
+21K0477,430005,425380,2,2015-05-14,20:23,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,59,Car
+21K0478,449134,400487,2,2015-05-14,14:05,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,53,Bus or Coach
+21K0479,407848,440956,1,2015-05-14,20:20,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,26,Car
+21K0480,424876,410029,2,2015-05-14,10:54,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,36,Car
+21K0481,446648,406099,2,2015-05-14,16:38,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Passenger,Serious,Male,31,Car
+21K0482,405166,415172,1,2015-05-14,08:19,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Passenger,Serious,Female,24,Car
+21K0483,420440,427536,1,2015-05-14,21:21,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,48,Goods Vehicle
+21K0484,435518,407005,2,2015-05-14,05:37,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,19,Car
+21K0485,447759,446410,2,2015-05-14,05:47,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,30,Car
+21K0486,415591,403890,3,2015-05-14,06:39,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Passenger,Serious,Male,33,Car
+21K0487,408168,446327,3,2015-05-14,08:41,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,59,Car
+21K0488,443976,416304,2,2015-05-14,22:02,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,25,Car
+21K0489,442719,413775,1,2015-05-14,22:00,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,44,Car
+21K0490,434004,444585,2,2015-05-14,14:42,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,35,Car
+21K0491,416522,400200,3,2015-05-14,14:10,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,27,Car
+21K0492,411603,427928,1,2015-05-14,15:50,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,48,Bus or Coach
+21K0493,410515,431480,2,2015-05-14,14:57,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,25,Car
+21K0494,424302,434211,2,2015-05-14,22:06,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,33,Bus or Coach
+21K0495,416010,449659,2,2015-05-14,20:31,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,30,Car
+21K0496,448012,420076,3,2015-05-14,08:44,A,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,57,Car
+21K0497,416048,421280,1,2015-05-14,10:22,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,75,Car
+21K0498,426917,402875,2,2015-05-14,14:26,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,31,Car
+21K0499,406347,402399,2,2015-05-14,00:58,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,33,Car
+21K0500,406128,416404,2,2015-05-14,01:30,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,24,Car
+21K0501,438199,415029,2,2015-05-14,00:27,B,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,30,Car
+21K0502,410286,415349,1,2015-05-14,23:11,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,64,Motorcycle
+21K0503,424028,441099,2,2015-05-14,21:27,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,61,Goods Vehicle
+21K0504,407112,405559,2,2015-05-14,06:04,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,61,Car
+21K0505,438776,438379,2,2015-05-14,14:10,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,64,Car
+21K0506,412862,426595,2,2015-05-14,12:49,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,72,Car
+21K0507,431412,425860,2,2015-05-14,01:33,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Serious,Male,22,Car
+21K0508,436194,405476,2,2015-05-14,16:34,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,26,Motorcycle
+21K0509,445794,441697,1,2015-05-14,16:09,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,72,Car
+21K0510,402169,400755,1,2015-05-14,21:44,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,30,Car
+21K0511,406439,428768,2,2015-05-14,01:50,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Female,34,Car
+21K0512,435767,409695,3,2015-05-14,09:31,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,42,Car
+21K0513,433236,428487,3,2015-05-14,00:02,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,51,Car
+21K0514,409827,426554,3,2015-05-14,18:07,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,70,Car
+21K0515,437802,424597,1,2015-05-14,17:45,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,40,Car
+21K0516,440920,441696,2,2015-05-14,04:04,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Female,51,Bus or Coach
+21K0517,440997,448056,2,2015-05-14,20:11,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,59,Car
+21K0518,417550,415874,2,2015-05-14,21:04,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,37,Car
+21K0519,410393,401357,2,2015-05-14,13:48,B,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Serious,Male,47,Goods Vehicle
+21K0520,419111,441394,3,2015-05-14,05:22,B,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,39,Car
+21K0521,412252,419256,2,2015-05-14,23:01,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,50,Car
+21K0522,414802,447892,1,2015-05-14,11:15,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Serious,Male,71,Car
+21K0523,444150,445105,2,2015-05-14,01:18,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,30,Bus or Coach
+21K0524,438477,420648,1,2015-05-14,12:46,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,68,Car
+21K0525,403167,439744,2,2015-05-14,07:37,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,44,Car
+21K0526,405496,449154,3,2015-05-14,10:24,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Serious,Male,29,Car
+21K0527,401741,401926,1,2015-05-14,10:49,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,58,Bus or Coach
+21K0528,447792,418589,1,2015-05-14,23:58,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,21,Car
+21K0529,439563,404647,1,2015-05-14,16:40,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,26,Goods Vehicle
+21K0530,412760,411180,2,2015-05-14,06:38,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,62,Bus or Coach
+21K0531,408523,434057,3,2015-05-14,23:02,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,20,Car
+21K0532,406290,407635,2,2015-05-14,13:49,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Passenger,Slight,Female,23,Car
+21K0533,425315,410092,3,2015-05-14,02:20,A,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,53,Car
+21K0534,437489,407128,3,2015-05-14,20:54,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,65,Car
+21K0535,415866,419923,1,2015-05-14,16:28,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,20,Car
+21K0536,442279,424530,1,2015-05-14,01:06,Motorway,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Serious,Female,22,Bus or Coach
+21K0537,437623,411913,1,2015-05-14,22:28,A,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,42,Bus or Coach
+21K0538,436221,442057,3,2015-05-14,02:56,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,54,Car
+21K0539,401394,432796,2,2015-05-14,18:39,A,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,45,Car
+21K0540,436690,403589,3,2015-05-14,19:44,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,59,Car
+21K0541,449104,414149,2,2015-05-14,17:46,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,26,Car
+21K0542,436775,449611,1,2015-05-14,09:52,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,19,Car
+21K0543,409649,426622,2,2015-05-14,17:43,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,71,Car
+21K0544,436817,431583,3,2015-05-14,03:43,A,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Serious,Male,71,Car
+21K0545,417501,426127,2,2015-05-14,07:37,B,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,18,Car
+21K0546,433678,428458,3,2015-05-14,12:04,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,39,Car
+21K0547,403140,404339,3,2015-05-14,16:03,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,73,Car
+21K0548,412838,438172,3,2015-05-14,20:26,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,36,Car
+21K0549,403813,446813,3,2015-05-14,04:46,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,73,Car
+21K0550,440985,431073,3,2015-05-14,01:10,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,34,Car
+21K0551,412797,413004,2,2015-05-14,14:14,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,24,Car
+21K0552,405187,430425,1,2015-05-14,06:54,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,70,Car
+21K0553,443885,420824,2,2015-05-14,14:31,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,37,Car
+21K0554,403223,447578,2,2015-05-14,18:20,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,33,Car
+21K0555,444698,416392,1,2015-05-14,12:30,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,22,Car
+21K0556,410582,441881,1,2015-05-14,15:57,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,71,Car
+21K0557,447921,445008,3,2015-05-14,07:48,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Female,38,Car
+21K0558,422182,415001,3,2015-05-14,23:01,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,48,Goods Vehicle
+21K0559,432536,415463,3,2015-05-14,16:49,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,58,Car
+21K0560,444163,410434,1,2015-05-14,12:43,B,Dry,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Male,64,Car
+21K0561,442683,411417,1,2015-05-14,18:08,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,35,Car
+21K0562,440857,439908,2,2015-05-14,17:55,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,64,Car
+21K0563,435539,428386,2,2015-05-14,16:18,B,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,36,Car
+21K0564,441029,435762,3,2015-05-14,01:44,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,67,Motorcycle
+21K0565,401718,440342,3,2015-05-14,08:24,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,72,Car
+21K0566,428604,433148,3,2015-05-14,22:54,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,52,Car
+21K0567,434366,400042,3,2015-05-14,20:11,A,Dry,Daylight: street lights present,Raining without high winds,Passenger,Slight,Male,64,Car
+21K0568,444932,429926,1,2015-05-14,00:43,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,51,Car
+21K0569,438901,425825,2,2015-05-14,04:22,B,Dry,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Male,43,Motorcycle
+21K0570,412751,435794,1,2015-05-14,10:25,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,48,Car
+21K0571,422501,425498,2,2015-05-14,18:10,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,32,Car
+21K0572,436695,446570,3,2015-05-14,11:23,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Female,66,Car
+21K0573,444571,418828,2,2015-05-14,07:00,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,25,Goods Vehicle
+21K0574,410801,403072,2,2015-05-14,16:53,A,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,47,Car
+21K0575,421480,413257,1,2015-05-14,06:46,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,46,Car
+21K0576,401052,440682,2,2015-05-14,04:44,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,25,Car
+21K0577,434322,430991,1,2015-05-14,19:46,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,43,Car
+21K0578,408968,421685,3,2015-05-14,13:03,Motorway,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,39,Car
+21K0579,448549,443864,2,2015-05-14,17:40,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,29,Car
+21K0580,419958,440264,1,2015-05-14,02:51,B,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,58,Car
+21K0581,442424,415210,1,2015-05-14,07:08,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,31,Car
+21K0582,427897,436408,2,2015-05-14,21:06,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,27,Car
+21K0583,445243,414554,3,2015-05-14,14:57,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,65,Bus or Coach
+21K0584,418868,413706,1,2015-05-14,16:13,A,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,56,Car
+21K0585,442280,400464,2,2015-05-14,19:05,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,53,Car
+21K0586,401587,434898,2,2015-05-14,15:25,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,41,Car
+21K0587,417408,431708,2,2015-05-14,12:09,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,60,Car
+21K0588,447812,406701,3,2015-05-14,01:35,Motorway,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,63,Motorcycle
+21K0589,401918,421353,2,2015-05-14,05:09,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,60,Car
+21K0590,441966,419870,2,2015-05-14,17:35,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Serious,Male,38,Car
+21K0591,420189,417483,3,2015-05-14,03:31,Motorway,Dry,Darkness: street lights present and lit,Fine without high winds,Passenger,Slight,Male,39,Car
+21K0592,416639,437854,3,2015-05-14,19:45,A,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,46,Car
+21K0593,403633,421699,2,2015-05-14,21:57,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,26,Car
+21K0594,436589,434009,2,2015-05-14,04:09,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,21,Car
+21K0595,411355,402467,1,2015-05-14,08:48,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Male,40,Car
+21K0596,445437,448495,2,2015-05-14,21:32,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,37,Car
+21K0597,425418,442297,1,2015-05-14,18:54,B,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,75,Car
+21K0598,401496,409778,2,2015-05-14,23:37,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,30,Goods Vehicle
+21K0599,430808,405416,2,2015-05-14,21:37,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,28,Car
+21K0600,445009,445901,3,2015-05-14,13:29,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,26,Car
+21K0601,407927,440469,1,2015-05-14,14:08,Motorway,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,42,Car
+21K0602,435137,400878,2,2015-05-14,14:41,B,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,68,Car
+21K0603,425872,440982,2,2015-05-14,10:55,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,55,Car
+21K0604,424033,422935,3,2015-05-14,02:51,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,49,Car
+21K0605,414998,429735,1,2015-05-14,04:17,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,72,Car
+21K0606,404911,448670,2,2015-05-14,00:09,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,56,Car
+21K0607,429039,447109,1,2015-05-14,13:27,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Serious,Male,38,Car
+21K0608,410393,444856,1,2015-05-14,07:44,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,54,Goods Vehicle
+21K0609,424154,427734,2,2015-05-14,19:04,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,34,Car
+21K0610,406974,408969,2,2015-05-14,14:27,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,65,Motorcycle
+21K0611,406578,429447,3,2015-05-14,08:48,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,46,Car
+21K0612,438846,401997,1,2015-05-14,10:45,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,39,Car
+21K0613,403132,418856,2,2015-05-14,16:17,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,40,Car
+21K0614,434611,444326,2,2015-05-14,14:27,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,67,Car
+21K0615,426383,410261,3,2015-05-14,08:53,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,62,Car
+21K0616,402102,403773,2,2015-05-14,12:26,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,60,Car
+21K0617,416535,402447,1,2015-05-14,23:41,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Female,58,Car
+21K0618,437628,400198,2,2015-05-14,07:42,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,59,Goods Vehicle
+21K0619,425886,439721,3,2015-05-14,20:14,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,24,Car
+21K0620,425035,406525,2,2015-05-14,06:31,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,29,Car
+21K0621,445146,433776,2,2015-05-14,18:36,Motorway,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Serious,Female,60,Car
+21K0622,414047,430622,1,2015-05-14,16:29,A,Dry,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Female,58,Car
+21K0623,435766,405484,2,2015-05-14,11:43,Motorway,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,50,Car
+21K0624,418990,443351,1,2015-05-14,02:34,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,50,Motorcycle
+21K0625,437426,428859,2,2015-05-14,14:59,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,23,Motorcycle
+21K0626,412380,424920,1,2015-05-14,09:38,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,35,Goods Vehicle
+21K0627,436679,433075,2,2015-05-14,14:46,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,68,Car
+21K0628,438074,427755,1,2015-05-14,11:27,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,53,Car
+21K0629,447373,424732,2,2015-05-14,03:49,Motorway,Dry,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Female,42,Car
+21K0630,416295,447209,2,2015-05-14,19:27,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,27,Car
+21K0631,423302,438010,2,2015-05-14,20:26,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,62,Car
+21K0632,440244,402692,3,2015-05-14,04:16,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,71,Car
+21K0633,419654,404840,2,2015-05-14,03:37,A,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,31,Car
+21K0634,426714,400027,2,2015-05-14,05:15,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,28,Car
+21K0635,418246,449183,2,2015-05-14,15:09,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,54,Car
+21K0636,404140,430804,3,2015-05-14,23:04,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,64,Car
+21K0637,426260,430259,2,2015-05-14,03:17,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Passenger,Slight,Female,58,Car
+21K0638,417368,435777,3,2015-05-14,19:42,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,50,Car
+21K0639,420470,445133,1,2015-05-14,10:21,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,29,Car
+21K0640,445052,431310,2,2015-05-14,07:44,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,66,Goods Vehicle
+21K0641,413575,427606,2,2015-05-14,07:26,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,19,Car
+21K0642,442685,437512,2,2015-05-14,04:19,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,68,Goods Vehicle
+21K0643,428268,432604,3,2015-05-14,01:20,B,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Serious,Male,46,Car
+21K0644,401912,437434,3,2015-05-14,09:49,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Female,41,Car
+21K0645,426505,424986,2,2015-05-14,20:11,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,21,Car
+21K0646,444254,427885,2,2015-05-14,05:07,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Serious,Female,48,Car
+21K0647,408803,420709,1,2015-05-14,12:01,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,34,Car
+21K0648,433886,441904,3,2015-05-14,01:00,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,30,Motorcycle
+21K0649,437869,439028,2,2015-05-14,14:59,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Passenger,Serious,Female,45,Car
+21K0650,447870,407268,2,2015-05-14,01:13,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,42,Car
+21K0651,430225,436313,2,2015-05-14,20:10,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,50,Car
+21K0652,416594,423725,2,2015-05-14,01:02,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,72,Car
+21K0653,409171,412684,2,2015-05-14,22:28,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Serious,Female,23,Car
+21K0654,426092,413518,2,2015-05-14,21:18,A,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,22,Bus or Coach
+21K0655,446806,400826,1,2015-05-14,02:38,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,32,Car
+21K0656,435738,432967,2,2015-05-14,08:39,B,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Female,50,Car
+21K0657,425974,428871,3,2015-05-14,16:18,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,41,Car
+21K0658,428016,403505,2,2015-05-14,17:56,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,59,Bus or Coach
+21K0659,415789,442182,1,2015-05-14,04:34,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Male,55,Car
+21K0660,410158,445259,1,2015-05-14,09:20,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Male,20,Goods Vehicle
+21K0661,446561,416556,2,2015-05-14,08:08,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,59,Car
+21K0662,432765,401971,3,2015-05-14,05:56,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,28,Car
+21K0663,402934,407665,1,2015-05-14,05:14,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,19,Car
+21K0664,441378,439116,3,2015-05-14,22:24,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,64,Car
+21K0665,436243,418963,2,2015-05-14,20:15,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,53,Car
+21K0666,412778,420634,2,2015-05-14,13:55,B,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,71,Motorcycle
+21K0667,400229,424252,2,2015-05-14,10:47,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,42,Car
+21K0668,406031,404838,1,2015-05-14,20:25,B,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,46,Car
+21K0669,406591,426137,2,2015-05-14,19:30,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,53,Car
+21K0670,435015,447553,3,2015-05-14,05:24,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,51,Goods Vehicle
+21K0671,440263,404761,2,2015-05-14,00:23,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,33,Car
+21K0672,405700,408696,3,2015-05-14,22:48,Motorway,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,23,Car
+21K0673,400383,449876,2,2015-05-14,04:04,B,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,60,Goods Vehicle
+21K0674,419450,425237,2,2015-05-14,02:06,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,26,Car
+21K0675,411601,410663,2,2015-05-14,19:30,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Passenger,Slight,Male,26,Car
+21K0676,436277,422715,2,2015-05-14,11:31,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,49,Car
+21K0677,448124,403262,1,2015-05-14,20:25,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,35,Goods Vehicle
+21K0678,411640,432971,2,2015-05-14,17:39,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,70,Car
+21K0679,410545,445144,2,2015-05-14,22:28,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,68,Car
+21K0680,436861,442040,1,2015-05-14,02:07,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Serious,Female,38,Car
+21K0681,405299,448990,1,2015-05-14,23:23,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,22,Bus or Coach
+21K0682,444596,400963,1,2015-05-14,15:16,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,27,Goods Vehicle
+21K0683,427079,438869,2,2015-05-14,13:22,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,68,Motorcycle
+21K0684,431072,413250,2,2015-05-14,17:05,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,60,Car
+21K0685,414534,444866,2,2015-05-14,02:29,A,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,33,Car
+21K0686,409921,427569,1,2015-05-14,12:55,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,34,Motorcycle
+21K0687,435858,419899,2,2015-05-14,10:51,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Passenger,Serious,Male,39,Car
+21K0688,429197,429119,2,2015-05-14,22:03,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,70,Car
+21K0689,402229,435444,2,2015-05-14,10:06,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,23,Goods Vehicle
+21K0690,433260,425421,1,2015-05-14,19:43,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,58,Car
+21K0691,446994,440696,2,2015-05-14,07:20,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,46,Bus or Coach
+21K0692,403900,400693,2,2015-05-14,13:48,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,69,Car
+21K0693,444983,438548,2,2015-05-14,14:40,B,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,72,Car
+21K0694,438991,436093,1,2015-05-14,11:45,B,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,61,Car
+21K0695,419927,447275,1,2015-05-14,06:44,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Passenger,Slight,Female,66,Car
+21K0696,404719,435570,2,2015-05-14,20:39,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,33,Bus or Coach
+21K0697,409601,402995,2,2015-05-14,12:04,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,70,Car
+21K0698,404829,435830,3,2015-05-14,22:28,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,63,Motorcycle
+21K0699,443398,412703,2,2015-05-14,09:37,B,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,39,Car
+21K0700,414284,410530,2,2015-05-14,00:04,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,34,Car
+21K0701,404007,441139,2,2015-05-14,21:36,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,54,Car
+21K0702,427640,444352,1,2015-05-14,11:15,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,75,Car
+21K0703,425167,425728,3,2015-05-14,07:50,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,54,Car
+21K0704,435588,429566,2,2015-05-14,18:55,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,71,Car
+21K0705,443977,411742,1,2015-05-14,22:09,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,46,Car
+21K0706,422560,410623,2,2015-05-14,22:48,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,28,Car
+21K0707,434369,408158,3,2015-05-14,23:00,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,23,Bus or Coach
+21K0708,437288,449127,3,2015-05-14,22:30,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Serious,Male,66,Motorcycle
+21K0709,404401,435880,3,2015-05-14,19:09,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Serious,Male,21,Car
+21K0710,433679,409050,2,2015-05-14,23:48,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,32,Car
+21K0711,410190,403877,2,2015-05-14,02:17,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,41,Car
+21K0712,446565,412863,1,2015-05-14,21:08,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,72,Car
+21K0713,446985,428764,3,2015-05-14,11:54,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,74,Car
+21K0714,416611,425943,2,2015-05-14,00:43,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Passenger,Slight,Male,55,Car
+21K0715,435210,414696,2,2015-05-14,02:43,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Serious,Male,37,Car
+21K0716,439853,402678,2,2015-05-14,18:47,A,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Male,57,Car
+21K0717,410630,409885,1,2015-05-14,06:07,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,47,Car
+21K0718,425111,415326,3,2015-05-14,04:05,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,37,Car
+21K0719,428899,428277,3,2015-05-14,06:43,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,28,Car
+21K0720,408485,411071,3,2015-05-14,04:27,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Female,39,Bus or Coach
+21K0721,417468,444138,2,2015-05-14,03:43,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Serious,Female,65,Car
+21K0722,426710,409667,2,2015-05-14,23:19,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,74,Car
+21K0723,418463,430207,2,2015-05-14,11:42,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,33,Car
+21K0724,446295,423975,3,2015-05-14,12:01,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,39,Goods Vehicle
+21K0725,438458,446668,2,2015-05-14,23:49,B,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,43,Car
+21K0726,447718,438970,3,2015-05-14,02:27,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,54,Car
+21K0727,440522,420076,1,2015-05-14,10:11,A,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,72,Car
+21K0728,429700,418099,2,2015-05-14,07:23,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Serious,Female,59,Car
+21K0729,412806,416240,2,2015-05-14,13:52,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Passenger,Slight,Male,67,Car
+21K0730,406832,444608,1,2015-05-14,00:34,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,64,Car
+21K0731,406054,436502,2,2015-05-14,10:10,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,47,Car
+21K0732,444582,442630,3,2015-05-14,01:07,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,39,Motorcycle
+21K0733,414585,429144,3,2015-05-14,14:08,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,59,Bus or Coach
+21K0734,409994,428791,1,2015-05-14,00:59,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,29,Car
+21K0735,420262,412209,2,2015-05-14,14:42,A,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,31,Car
+21K0736,432399,410779,1,2015-05-14,06:07,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,59,Car
+21K0737,447595,441364,3,2015-05-14,07:22,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Male,28,Car
+21K0738,445431,429012,2,2015-05-14,22:39,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,75,Motorcycle
+21K0739,423202,414778,2,2015-05-14,07:27,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,20,Car
+21K0740,425499,439789,3,2015-05-14,03:48,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,24,Car
+21K0741,436282,414566,2,2015-05-14,22:05,Motorway,Dry,Darkness: street lights present and lit,Fine without high winds,Passenger,Slight,Male,43,Car
+21K0742,421254,429007,2,2015-05-14,04:09,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,50,Car
+21K0743,406955,449439,2,2015-05-14,08:09,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Serious,Female,29,Car
+21K0744,423182,426543,1,2015-05-14,12:11,B,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Serious,Female,48,Motorcycle
+21K0745,404369,442451,1,2015-05-14,17:03,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,72,Car
+21K0746,419981,407997,2,2015-05-14,04:00,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,32,Car
+21K0747,447192,431033,2,2015-05-14,12:04,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,58,Car
+21K0748,424136,405667,3,2015-05-14,23:17,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,23,Car
+21K0749,424639,438825,2,2015-05-14,18:20,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,28,Car
+21K0750,404660,440812,3,2015-05-14,03:08,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,57,Car
+21K0751,434863,437128,3,2015-05-14,12:02,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,56,Motorcycle
+21K0752,408641,428694,3,2015-05-14,21:48,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,40,Car
+21K0753,441772,413631,2,2015-05-14,06:07,Motorway,Dry,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Male,25,Car
+21K0754,410390,407933,1,2015-05-14,11:53,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,36,Car
+21K0755,446593,403272,1,2015-05-14,04:26,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,55,Car
+21K0756,420284,405834,3,2015-05-14,06:24,Motorway,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,62,Car
+21K0757,413053,402466,3,2015-05-14,08:36,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,62,Car
+21K0758,421043,413493,1,2015-05-14,22:23,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,31,Car
+21K0759,415385,405135,2,2015-05-14,19:18,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,34,Bus or Coach
+21K0760,448845,414510,2,2015-05-14,22:16,B,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,63,Bus or Coach
+21K0761,418074,437900,3,2015-05-14,09:14,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,32,Car
+21K0762,421508,432801,3,2015-05-14,04:38,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,24,Car
+21K0763,406790,400522,3,2015-05-14,04:03,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Serious,Male,36,Car
+21K0764,427053,424283,2,2015-05-14,15:51,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,37,Car
+21K0765,404200,409724,2,2015-05-14,18:03,A,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,72,Car
+21K0766,423346,434653,3,2015-05-14,06:21,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Female,54,Car
+21K0767,404507,417110,2,2015-05-14,17:19,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,21,Bus or Coach
+21K0768,412030,412484,3,2015-05-14,05:59,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,24,Car
+21K0769,415203,443469,3,2015-05-14,22:37,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,68,Bus or Coach
+21K0770,446580,446389,2,2015-05-14,18:55,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,46,Car
+21K0771,430527,417268,2,2015-05-14,01:19,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Serious,Male,70,Car
+21K0772,418371,427664,3,2015-05-14,10:11,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Male,27,Car
+21K0773,415320,400610,2,2015-05-14,00:08,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,44,Car
+21K0774,404438,448107,1,2015-05-14,21:57,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,40,Bus or Coach
+21K0775,416326,449046,1,2015-05-14,05:17,A,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,70,Car
+21K0776,415400,401903,2,2015-05-14,08:45,A,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,67,Car
+21K0777,429767,447035,2,2015-05-14,05:42,B,Dry,Daylight: street lights present,Fine without high winds,Passenger,Serious,Male,74,Car
+21K0778,447818,406657,3,2015-05-14,20:40,B,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,41,Car
+21K0779,414902,435181,3,2015-05-14,04:50,A,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,55,Bus or Coach
+21K0780,425249,425834,2,2015-05-14,22:16,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,29,Car
+21K0781,405540,405632,1,2015-05-14,03:33,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,21,Car
+21K0782,404845,429780,1,2015-05-14,15:18,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,56,Car
+21K0783,407169,432374,1,2015-05-14,05:11,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,41,Motorcycle
+21K0784,409459,407404,3,2015-05-14,05:24,B,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,62,Car
+21K0785,412812,413261,2,2015-05-14,09:19,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,39,Car
+21K0786,430449,401363,2,2015-05-14,00:55,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,68,Car
+21K0787,432560,416867,2,2015-05-14,12:27,A,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,49,Car
+21K0788,411173,410486,2,2015-05-14,18:09,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,41,Car
+21K0789,410332,409889,2,2015-05-14,03:04,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,60,Goods Vehicle
+21K0790,415243,428566,2,2015-05-14,14:42,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,45,Car
+21K0791,421969,443466,2,2015-05-14,19:32,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,20,Car
+21K0792,437610,435024,2,2015-05-14,22:54,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,41,Car
+21K0793,446611,424411,2,2015-05-14,13:34,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,34,Car
+21K0794,403833,425523,2,2015-05-14,09:48,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,49,Car
+21K0795,434368,431486,2,2015-05-14,10:33,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,25,Car
+21K0796,447462,408473,2,2015-05-14,09:42,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,37,Car
+21K0797,402980,418633,2,2015-05-14,19:16,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,25,Car
+21K0798,440304,429262,2,2015-05-14,13:37,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,19,Car
+21K0799,428310,427672,3,2015-05-14,00:47,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,52,Car
+21K0800,406315,400252,2,2015-05-14,20:02,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,53,Car
+21K0801,427389,440366,2,2015-05-14,21:49,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,33,Motorcycle
+21K0802,436425,413553,3,2015-05-14,21:50,A,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,58,Goods Vehicle
+21K0803,411602,426060,3,2015-05-14,03:15,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,28,Car
+21K0804,414785,446982,2,2015-05-14,03:43,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,22,Car
+21K0805,421323,446415,1,2015-05-14,12:57,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,18,Car
+21K0806,435273,434252,1,2015-05-14,20:52,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,50,Car
+21K0807,423091,438890,3,2015-05-14,18:54,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,63,Motorcycle
+21K0808,445973,425610,3,2015-05-14,11:44,Motorway,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,46,Car
+21K0809,440418,433241,2,2015-05-14,10:20,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,73,Car
+21K0810,429166,417571,3,2015-05-14,04:48,Motorway,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,53,Car
+21K0811,439012,429968,2,2015-05-14,21:43,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,30,Bus or Coach
+21K0812,407375,426932,3,2015-05-14,07:18,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,55,Car
+21K0813,417381,419006,2,2015-05-14,00:50,Motorway,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,47,Car
+21K0814,426228,418997,1,2015-05-14,00:53,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,52,Car
+21K0815,412448,443628,1,2015-05-14,10:30,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,24,Car
+21K0816,427262,415503,1,2015-05-14,04:59,B,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,24,Car
+21K0817,439088,423323,2,2015-05-14,00:58,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,60,Bus or Coach
+21K0818,428311,429414,1,2015-05-14,16:48,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,20,Car
+21K0819,441354,449159,2,2015-05-14,13:23,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,20,Car
+21K0820,417973,443598,2,2015-05-14,13:35,Motorway,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,25,Car
+21K0821,422557,440060,3,2015-05-14,15:08,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,31,Bus or Coach
+21K0822,428808,401926,2,2015-05-14,15:19,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,38,Car
+21K0823,415188,435020,2,2015-05-14,10:00,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,73,Car
+21K0824,400217,448563,2,2015-05-14,12:08,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,58,Goods Vehicle
+21K0825,410292,427892,2,2015-05-14,17:41,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,60,Car
+21K0826,444647,422693,2,2015-05-14,22:54,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,39,Car
+21K0827,423807,420218,1,2015-05-14,08:28,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,73,Car
+21K0828,448716,447988,2,2015-05-14,03:53,Motorway,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,75,Car
+21K0829,402401,421847,2,2015-05-14,15:32,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,33,Motorcycle
+21K0830,427991,402453,3,2015-05-14,16:34,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,29,Car
+21K0831,404102,420542,2,2015-05-14,03:28,Motorway,Dry,Daylight: street lights present,Raining without high winds,Passenger,Slight,Female,21,Car
+21K0832,436996,407037,2,2015-05-14,13:43,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Passenger,Slight,Female,55,Car
+21K0833,420341,414711,2,2015-05-14,12:08,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Serious,Male,57,Car
+21K0834,438393,401900,1,2015-05-14,03:03,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,63,Car
+21K0835,406239,446155,1,2015-05-14,17:38,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,67,Car
+21K0836,440583,449222,3,2015-05-14,18:23,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Passenger,Slight,Male,66,Car
+21K0837,433968,448620,1,2015-05-14,18:03,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,58,Motorcycle
+21K0838,419610,434656,2,2015-05-14,20:38,Motorway,Wet / Damp,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Female,39,Bus or Coach
+21K0839,413507,427882,3,2015-05-14,05:33,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,72,Car
+21K0840,405368,437887,2,2015-05-14,19:31,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,73,Motorcycle
+21K0841,406905,429182,3,2015-05-14,18:03,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Female,23,Car
+21K0842,443056,420518,1,2015-05-14,23:29,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,54,Car
+21K0843,438305,405231,1,2015-05-14,07:54,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,64,Car
+21K0844,437615,403871,2,2015-05-14,17:51,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,47,Car
+21K0845,404566,422495,3,2015-05-14,06:24,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,31,Car
+21K0846,440545,403955,1,2015-05-14,20:21,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Female,46,Car
+21K0847,405632,442641,2,2015-05-14,12:52,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,43,Car
+21K0848,443255,408783,2,2015-05-14,15:31,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,33,Car
+21K0849,434159,405387,3,2015-05-14,08:16,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,38,Car
+21K0850,413417,421938,2,2015-05-14,13:53,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Male,31,Car
+21K0851,409352,431890,3,2015-05-14,06:27,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,66,Car
+21K0852,438795,420774,2,2015-05-14,00:36,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedestrian,Serious,Female,62,Motorcycle
+21K0853,411346,433138,2,2015-05-14,19:32,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,67,Car
+21K0854,449061,429732,2,2015-05-14,15:07,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Pedestrian,Serious,Female,66,Car
+21K0855,417759,447241,1,2015-05-14,06:19,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Serious,Male,32,Car
+21K0856,418609,449871,3,2015-05-14,14:00,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,73,Car
+21K0857,401519,412208,2,2015-05-14,12:08,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Female,32,Car
+21K0858,447458,442753,2,2015-05-14,14:29,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,35,Car
+21K0859,414096,410456,2,2015-05-14,11:49,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,27,Car
+21K0860,418156,435650,3,2015-05-14,00:37,Motorway,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,23,Bus or Coach
+21K0861,409447,412158,2,2015-05-14,00:16,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,51,Car
+21K0862,445058,425000,2,2015-05-14,01:30,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,20,Car
+21K0863,415495,425619,3,2015-05-14,23:08,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,38,Car
+21K0864,406277,432435,2,2015-05-14,04:21,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,46,Car
+21K0865,406129,407153,2,2015-05-14,17:52,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Passenger,Slight,Male,69,Bus or Coach
+21K0866,446526,418306,3,2015-05-14,03:31,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Male,33,Car
+21K0867,409483,414783,2,2015-05-14,09:54,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,55,Car
+21K0868,405392,409300,1,2015-05-14,18:17,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,29,Car
+21K0869,440993,423142,2,2015-05-14,03:14,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,61,Car
+21K0870,422606,445353,2,2015-05-14,18:34,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Serious,Male,71,Car
+21K0871,428171,435421,3,2015-05-14,22:18,Motorway,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,47,Car
+21K0872,403852,400633,2,2015-05-14,09:29,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,54,Car
+21K0873,419108,440613,2,2015-05-14,02:27,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,30,Car
+21K0874,447865,440981,2,2015-05-14,06:50,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,28,Car
+21K0875,437623,434588,3,2015-05-14,10:17,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,65,Car
+21K0876,400953,423545,2,2015-05-14,00:56,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,63,Goods Vehicle
+21K0877,415680,438911,1,2015-05-14,19:00,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,18,Car
+21K0878,406051,425197,2,2015-05-14,07:08,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,65,Car
+21K0879,425441,400583,2,2015-05-14,09:34,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,21,Car
+21K0880,439106,438632,2,2015-05-14,21:14,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Serious,Male,23,Car
+21K0881,443394,439592,2,2015-05-14,22:16,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,69,Car
+21K0882,404483,423790,2,2015-05-14,10:48,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,74,Goods Vehicle
+21K0883,428307,428941,2,2015-05-14,22:03,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,23,Car
+21K0884,409975,409029,2,2015-05-14,16:28,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,74,Car
+21K0885,417175,445142,2,2015-05-14,04:29,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,47,Car
+21K0886,419310,405714,2,2015-05-14,19:06,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,38,Car
+21K0887,401173,418799,3,2015-05-14,03:56,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,53,Car
+21K0888,409392,430033,1,2015-05-14,00:05,A,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Male,26,Car
+21K0889,417333,434888,2,2015-05-14,00:31,Motorway,Wet / Damp,Daylight: street lights present,Raining without high winds,Passenger,Slight,Female,74,Car
+21K0890,411646,409458,3,2015-05-14,13:14,B,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,64,Motorcycle
+21K0891,447965,420258,3,2015-05-14,04:16,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,66,Car
+21K0892,444524,408271,3,2015-05-14,21:11,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Passenger,Serious,Female,68,Car
+21K0893,410003,408521,2,2015-05-14,02:59,Motorway,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,36,Car
+21K0894,405276,443410,2,2015-05-14,18:03,B,Dry,Daylight: street lights present,Raining without high winds,Passenger,Slight,Male,37,Motorcycle
+21K0895,415420,420526,2,2015-05-14,06:19,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Serious,Male,39,Goods Vehicle
+21K0896,416566,439623,2,2015-05-14,05:22,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,25,Car
+21K0897,446547,440138,3,2015-05-14,06:34,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,55,Motorcycle
+21K0898,447449,404244,2,2015-05-14,18:51,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,20,Car
+21K0899,410551,424318,2,2015-05-14,06:42,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,65,Goods Vehicle
+21K0900,400274,415710,3,2015-05-14,04:06,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,70,Car
+21K0901,439609,403243,1,2015-05-14,02:51,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,62,Car
+21K0902,406481,438646,3,2015-05-14,20:35,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,40,Car
+21K0903,440425,449234,1,2015-05-14,23:32,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,18,Car
+21K0904,405048,413502,3,2015-05-14,10:14,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,46,Car
+21K0905,400226,430911,2,2015-05-14,14:38,A,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,57,Car
+21K0906,410133,408505,2,2015-05-14,21:38,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,46,Car
+21K0907,400457,411931,2,2015-05-14,17:00,B,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,73,Car
+21K0908,408844,413977,3,2015-05-14,05:10,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,72,Car
+21K0909,426110,443671,3,2015-05-14,00:24,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,62,Motorcycle
+21K0910,405861,421093,1,2015-05-14,23:07,B,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,70,Car
+21K0911,416910,410259,2,2015-05-14,06:44,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Serious,Male,32,Car
+21K0912,419754,407021,3,2015-05-14,19:51,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,41,Goods Vehicle
+21K0913,445762,419057,3,2015-05-14,22:50,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Male,38,Car
+21K0914,407765,449876,2,2015-05-14,15:26,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,38,Car
+21K0915,436163,422083,2,2015-05-14,23:48,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Passenger,Slight,Male,55,Car
+21K0916,436882,432620,1,2015-05-14,10:23,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Slight,Male,42,Car
+21K0917,419374,419183,3,2015-05-14,23:53,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,31,Car
+21K0918,432770,430398,1,2015-05-14,11:24,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,37,Car
+21K0919,412170,428986,2,2015-05-14,02:53,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,34,Goods Vehicle
+21K0920,444908,434608,3,2015-05-14,04:57,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Male,46,Car
+21K0921,424723,444773,2,2015-05-14,04:30,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,56,Car
+21K0922,434669,428261,3,2015-05-14,19:03,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Serious,Female,32,Car
+21K0923,445476,421928,2,2015-05-14,07:16,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,44,Bus or Coach
+21K0924,439071,429450,3,2015-05-14,08:49,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,74,Car
+21K0925,446575,422216,2,2015-05-14,08:10,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,48,Car
+21K0926,426374,449124,2,2015-05-14,14:46,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,71,Car
+21K0927,424313,442680,3,2015-05-14,13:38,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,25,Car
+21K0928,436207,426486,2,2015-05-14,01:23,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,19,Goods Vehicle
+21K0929,437266,436018,1,2015-05-14,03:56,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,46,Car
+21K0930,449772,401266,2,2015-05-14,02:25,Motorway,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,31,Car
+21K0931,430070,412028,2,2015-05-14,08:24,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,33,Car
+21K0932,435384,414568,1,2015-05-14,23:25,B,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,32,Motorcycle
+21K0933,408337,430278,2,2015-05-14,15:11,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,67,Car
+21K0934,428130,403899,2,2015-05-14,13:45,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,31,Car
+21K0935,417352,440857,2,2015-05-14,00:28,Motorway,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,20,Car
+21K0936,443588,446849,1,2015-05-14,18:53,Unclassified,Dry,Darkness: street lights present and lit,Raining without high winds,Passenger,Serious,Male,20,Car
+21K0937,435534,437514,1,2015-05-14,18:14,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Serious,Male,22,Car
+21K0938,424526,442727,2,2015-05-14,11:54,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,20,Car
+21K0939,426530,438069,2,2015-05-14,22:50,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,28,Car
+21K0940,408667,400474,1,2015-05-14,11:36,A,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,46,Goods Vehicle
+21K0941,420516,440090,2,2015-05-14,01:07,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,22,Goods Vehicle
+21K0942,411944,439013,2,2015-05-14,20:05,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,22,Car
+21K0943,431563,424404,2,2015-05-14,23:25,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Serious,Female,43,Car
+21K0944,406742,409297,1,2015-05-14,19:27,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,75,Car
+21K0945,409006,417726,1,2015-05-14,06:10,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,67,Car
+21K0946,438134,441933,1,2015-05-14,09:15,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,26,Car
+21K0947,448578,416470,2,2015-05-14,04:05,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Pedestrian,Serious,Female,55,Car
+21K0948,400486,419825,3,2015-05-14,15:02,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,55,Goods Vehicle
+21K0949,423218,406243,2,2015-05-14,19:03,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,58,Car
+21K0950,423545,448184,2,2015-05-14,23:34,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,65,Car
+21K0951,426076,431605,2,2015-05-14,21:37,B,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,43,Car
+21K0952,410421,411312,2,2015-05-14,11:00,A,Dry,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Slight,Female,46,Car
+21K0953,426947,412366,2,2015-05-14,05:41,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,56,Car
+21K0954,400881,439681,3,2015-05-14,12:10,Motorway,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Male,55,Car
+21K0955,412727,412131,1,2015-05-14,15:53,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,33,Car
+21K0956,413159,435307,2,2015-05-14,04:10,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,19,Motorcycle
+21K0957,430238,431840,1,2015-05-14,10:25,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Serious,Female,43,Car
+21K0958,446446,434453,2,2015-05-14,00:00,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,72,Car
+21K0959,407295,413473,2,2015-05-14,13:07,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,30,Goods Vehicle
+21K0960,422869,418089,2,2015-05-14,03:58,Motorway,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,66,Car
+21K0961,445386,413659,2,2015-05-14,19:18,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Passenger,Slight,Male,50,Car
+21K0962,401295,405671,3,2015-05-14,19:39,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,35,Car
+21K0963,432519,411024,2,2015-05-14,08:22,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Female,18,Car
+21K0964,419229,435131,2,2015-05-14,23:14,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,45,Bus or Coach
+21K0965,404143,442784,1,2015-05-14,00:38,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Serious,Male,43,Motorcycle
+21K0966,421055,438664,1,2015-05-14,01:37,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,65,Car
+21K0967,414557,429858,2,2015-05-14,08:13,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,74,Car
+21K0968,427138,430628,2,2015-05-14,21:56,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,62,Car
+21K0969,424429,433916,1,2015-05-14,01:09,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,62,Car
+21K0970,436837,425235,1,2015-05-14,09:15,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,45,Car
+21K0971,416098,413846,1,2015-05-14,12:30,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,65,Car
+21K0972,426890,431154,2,2015-05-14,02:39,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,56,Car
+21K0973,425376,430849,2,2015-05-14,18:26,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,43,Car
+21K0974,420638,441791,2,2015-05-14,00:54,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,45,Car
+21K0975,435721,426310,3,2015-05-14,00:26,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Serious,Female,74,Car
+21K0976,412560,438025,2,2015-05-14,16:53,A,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Male,69,Car
+21K0977,405926,429985,1,2015-05-14,17:27,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,52,Car
+21K0978,443572,415362,1,2015-05-14,21:49,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,57,Goods Vehicle
+21K0979,401755,424928,2,2015-05-14,02:39,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,32,Car
+21K0980,433595,448660,2,2015-05-14,21:50,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Pedestrian,Slight,Female,25,Car
+21K0981,432898,400365,3,2015-05-14,20:24,B,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,75,Car
+21K0982,424878,442630,2,2015-05-14,18:58,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,25,Car
+21K0983,439261,410228,3,2015-05-14,20:19,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,72,Car
+21K0984,410442,426352,2,2015-05-14,16:10,Motorway,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,60,Goods Vehicle
+21K0985,409653,433838,2,2015-05-14,18:11,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Serious,Female,64,Car
+21K0986,425223,407220,2,2015-05-14,15:25,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,58,Motorcycle
+21K0987,427608,412754,2,2015-05-14,08:17,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,70,Car
+21K0988,405323,411707,1,2015-05-14,23:47,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Slight,Female,55,Car
+21K0989,410237,414603,3,2015-05-14,11:15,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Female,59,Car
+21K0990,408641,449428,2,2015-05-14,07:24,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Female,34,Car
+21K0991,405187,445869,3,2015-05-14,11:49,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Driver/Rider,Serious,Male,27,Car
+21K0992,446979,437352,3,2015-05-14,15:15,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,43,Goods Vehicle
+21K0993,418592,438358,1,2015-05-14,04:23,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Slight,Male,34,Car
+21K0994,434369,425359,2,2015-05-14,05:26,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedestrian,Slight,Male,75,Car
+21K0995,439994,438666,2,2015-05-14,18:58,A,Dry,Darkness: street lights present and lit,Fine without high winds,Passenger,Slight,Male,49,Car
+21K0996,412274,424390,3,2015-05-14,00:19,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Passenger,Serious,Female,24,Car
+21K0997,439526,434595,2,2015-05-14,19:05,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Female,60,Car
+21K0998,426142,409620,1,2015-05-14,09:47,A,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Driver/Rider,Slight,Male,31,Car
+21K0999,437677,432486,2,2015-05-14,04:57,Motorway,Dry,Daylight: street lights present,Fine without high winds,Driver/Rider,Slight,Male,28,Motorcycle
+21K1000,419454,400744,2,2015-05-14,19:45,Unclassified,Dry,Daylight: street lights present,Raining without high winds,Driver/Rider,Serious,Female,45,Car
