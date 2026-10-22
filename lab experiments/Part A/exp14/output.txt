@@ -1,0 +1,8 @@
+--- Sorted Values (n=12) ---
+ [1]  8 12 14 17 19 22 24 27 30 35 39 44
+
+--- Quartiles and Interquartile Range ---
+First Quartile (Q1) : 16.25 
+Second Quartile (Q2): 23 (Median)
+Third Quartile (Q3) : 31.25 
+IQR (Q3 - Q1)       : 15 

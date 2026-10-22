@@ -1,0 +1,17 @@
+@relation retail_customer-weka.filters.unsupervised.attribute.Discretize-B5-M-1.0-R2-precision6
+
+@attribute Age numeric
+@attribute Income {'\'(-inf-32600]\'','\'(32600-43200]\'','\'(43200-53800]\'','\'(53800-64400]\'','\'(64400-inf)\''}
+@attribute Visits numeric
+@attribute Purchase {Yes,No}
+
+@data
+
+21,'\'(-inf-32600]\'',4,No
+25,'\'(-inf-32600]\'',6,No
+29,'\'(32600-43200]\'',8,Yes
+33,'\'(32600-43200]\'',10,Yes
+38,'\'(43200-53800]\'',12,Yes
+45,'\'(53800-64400]\'',15,Yes
+52,'\'(64400-inf)\'',16,Yes
+27,'\'(-inf-32600]\'',7,No

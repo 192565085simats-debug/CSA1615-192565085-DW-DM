@@ -1,0 +1,56 @@
+=== Q12: SMO Classification on Diabetes Data (Accuracy, Precision, Recall, F1) ===
+$ C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe -cp C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\weka.jar;C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\bounce.jar weka.classifiers.functions.SMO -t C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\diabetes.arff -no-cv
+
+
+=== Classifier model (full training set) ===
+
+SMO
+
+Kernel used:
+  Linear Kernel: K(x,y) = <x,y>
+
+Classifier for classes: Yes, No
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+        -0.4667 * (normalized) Age
+ +      -1.1333 * (normalized) Glucose
+ +      -0.9704 * (normalized) BMI
+ +       1.2337
+
+Number of kernel evaluations: 23 (47.727% cached)
+
+
+
+Time taken to build model: 0.03 seconds
+
+Time taken to test model on training data: 0 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances           9               90      %
+Incorrectly Classified Instances         1               10      %
+Kappa statistic                          0.8   
+Mean absolute error                      0.1   
+Root mean squared error                  0.3162
+Relative absolute error                 20      %
+Root relative squared error             63.2456 %
+Total Number of Instances               10     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.800    0.000    1.000      0.800    0.889      0.816    0.900     0.900     Yes
+                 1.000    0.200    0.833      1.000    0.909      0.816    0.900     0.833     No
+Weighted Avg.    0.900    0.100    0.917      0.900    0.899      0.816    0.900     0.867     
+
+
+=== Confusion Matrix ===
+
+ a b   <-- classified as
+ 4 1 | a = Yes
+ 0 5 | b = No
+

@@ -1,0 +1,16 @@
+--- 4x4 Marks Matrix ---
+          Subject 1 Subject 2 Subject 3 Subject 4
+Student 1        75        82        68        90
+Student 2        88        79        85        92
+Student 3        64        70        72        68
+Student 4        91        86        94        89
+
+Row Totals (Total Marks per Student):
+Student 1 Student 2 Student 3 Student 4 
+      315       344       274       360 
+
+Column Totals (Total Marks per Subject):
+Subject 1 Subject 2 Subject 3 Subject 4 
+      318       317       319       339 
+
+Overall Mean Mark: 80.81 

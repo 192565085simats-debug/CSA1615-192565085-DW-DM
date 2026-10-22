@@ -1,0 +1,21 @@
+--- Products Data Frame ---
+     Product Quantity Revenue
+1   Keyboard       45   67500
+2      Mouse       80   40000
+3    Monitor       25  312500
+4 Headphones       60   90000
+5     Webcam       35   87500
+6    USB Hub       90   45000
+7   Desk Mat       50   25000
+8   Speakers       40  100000
+
+--- Summary of Numeric Attributes ---
+    Quantity        Revenue      
+ Min.   :25.00   Min.   : 25000  
+ 1st Qu.:38.75   1st Qu.: 43750  
+ Median :47.50   Median : 77500  
+ Mean   :53.12   Mean   : 95938  
+ 3rd Qu.:65.00   3rd Qu.: 92500  
+ Max.   :90.00   Max.   :312500  
+
+Data successfully exported to: ../data/q13_products.csv 

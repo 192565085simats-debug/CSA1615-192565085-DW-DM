@@ -1,0 +1,13 @@
+--- Daily Website Visits ---
+ [1] 1250 1420 1180 1600 1750 1390 1510 1820 1300 1470 1690 1580
+
+--- Descriptive Statistics ---
+Mean              : 1496.67 
+Median            : 1490 
+Quartiles (Q1,Q3) : 1367.5 , 1622.5 
+Sample Variance   : 40151.52 
+Standard Deviation: 200.38 
+null device 
+          1 
+
+Histogram saved to screenshots/q23_histogram.png

@@ -1,0 +1,10 @@
+--- Sensitivity Analysis to Extreme Outliers ---
+           Metric Without_Outlier With_Outlier
+Range       Range          200.00      2380.00
+IQR           IQR           82.50        82.50
+Variance Variance         4143.33    527343.33
+SD             SD           64.37       726.18
+
+Discussion:
+- Range, Variance and SD are extremely sensitive to outliers because they incorporate squared or boundary values.
+- IQR is robust to extreme values as it focuses on the middle 50% of the distribution.

@@ -1,0 +1,14 @@
+=== Q16: Naive Bayes on Banking Risk Data (10-Fold CV) vs J48 ===
+$ C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe -cp C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\weka.jar;C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\bounce.jar weka.classifiers.bayes.NaiveBayes -t C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\bank_risk.arff -x 10
+
+
+STDERR:
+java.lang.IllegalArgumentException: Can't have more folds than instances!
+	at weka.core.Instances.trainCV(Instances.java:1898)
+	at weka.core.Instances.trainCV(Instances.java:1934)
+	at weka.classifiers.evaluation.Evaluation.crossValidateModel(Evaluation.java:840)
+	at weka.classifiers.evaluation.Evaluation.crossValidateModel(Evaluation.java:797)
+	at weka.classifiers.evaluation.Evaluation.evaluateModel(Evaluation.java:1943)
+	at weka.classifiers.Evaluation.evaluateModel(Evaluation.java:668)
+	at weka.classifiers.AbstractClassifier.runClassifier(AbstractClassifier.java:141)
+	at weka.classifiers.bayes.NaiveBayes.main(NaiveBayes.java:1018)

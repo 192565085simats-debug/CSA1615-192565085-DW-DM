@@ -1,0 +1,46 @@
+=== Q40: Apriori and FP-Growth Association Rule Mining on 10 Market Transactions ===
+$ C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe -cp C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\weka.jar;C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\bounce.jar weka.associations.Apriori -t C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\market_transactions.arff -N 10 -C 0.7 -M 0.3
+
+
+Apriori
+=======
+
+Minimum support: 0.45 (4 instances)
+Minimum metric <confidence>: 0.7
+Number of cycles performed: 11
+
+Generated sets of large itemsets:
+
+Size of set of large itemsets L(1): 7
+
+Size of set of large itemsets L(2): 10
+
+Size of set of large itemsets L(3): 1
+
+Best rules found:
+
+ 1. Butter=F 5 ==> Milk=T 5    <conf:(1)> lift:(1.25) lev:(0.1) [0] conv:(1)
+ 2. Bread=T Butter=F 4 ==> Milk=T 4    <conf:(1)> lift:(1.25) lev:(0.08) [0] conv:(0.8)
+ 3. Eggs=T 7 ==> Milk=T 6    <conf:(0.86)> lift:(1.07) lev:(0.04) [0] conv:(0.7)
+ 4. Butter=F 5 ==> Bread=T 4    <conf:(0.8)> lift:(1.14) lev:(0.05) [0] conv:(0.75)
+ 5. Juice=F 5 ==> Bread=T 4    <conf:(0.8)> lift:(1.14) lev:(0.05) [0] conv:(0.75)
+ 6. Juice=T 5 ==> Milk=T 4    <conf:(0.8)> lift:(1) lev:(0) [0] conv:(0.5)
+ 7. Juice=F 5 ==> Milk=T 4    <conf:(0.8)> lift:(1) lev:(0) [0] conv:(0.5)
+ 8. Butter=T 5 ==> Eggs=T 4    <conf:(0.8)> lift:(1.14) lev:(0.05) [0] conv:(0.75)
+ 9. Juice=F 5 ==> Eggs=T 4    <conf:(0.8)> lift:(1.14) lev:(0.05) [0] conv:(0.75)
+10. Milk=T Butter=F 5 ==> Bread=T 4    <conf:(0.8)> lift:(1.14) lev:(0.05) [0] conv:(0.75)
+
+=== Evaluation ===
+
+Elapsed time: 0.054s
+
+
+
+=== Q40 (Continued): FP-Growth with Identical Parameters (Conf=70%, Supp=30%) ===
+$ C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe -cp C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\weka.jar;C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\bounce.jar weka.associations.FPGrowth -t C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\market_transactions.arff -N 10 -C 0.7 -M 0.3
+
+No rules found!
+=== Evaluation ===
+
+Elapsed time: 0.054s
+

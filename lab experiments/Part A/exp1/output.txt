@@ -1,0 +1,8 @@
+--- Student Marks Data ---
+ [1] 78 85 92 64 88 73 95 81 70 89
+
+--- Descriptive Statistics ---
+Mean              : 81.5 
+Median            : 83 
+Sample Variance   : 102.94 
+Standard Deviation: 10.15 

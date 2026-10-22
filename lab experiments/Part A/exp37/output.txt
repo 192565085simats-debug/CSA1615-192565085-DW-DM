@@ -1,0 +1,26 @@
+--- Equal-Frequency Binning (Tertiles) ---
+   Age    Category
+1   18       Young
+2   21       Young
+3   22       Young
+4   25       Young
+5   28       Young
+6   30 Middle-Aged
+7   32 Middle-Aged
+8   35 Middle-Aged
+9   38 Middle-Aged
+10  41 Middle-Aged
+11  44      Senior
+12  48      Senior
+13  52      Senior
+14  57      Senior
+15  63      Senior
+
+Quantile Cut Points:
+       0% 33.33333% 66.66667%      100% 
+ 18.00000  29.33333  42.00000  63.00000 
+
+Group Frequency Count:
+groups
+      Young Middle-Aged      Senior 
+          5           5           5 

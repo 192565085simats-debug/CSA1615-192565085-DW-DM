@@ -1,0 +1,17 @@
+--- Generated 20 Random Values ---
+ [1] 47.9 39.6 38.5 53.2 35.0 45.5 67.3 55.1 51.0 49.4 32.6 36.8 44.5 35.4 50.8
+[16] 59.3 42.8 59.6 65.5 39.9
+
+--- Summary Metrics ---
+Minimum : 32.6 
+Maximum : 67.3 
+Mean    : 47.48 
+Median  : 46.7 
+
+--- Complete Summary ---
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  32.60   39.33   46.70   47.48   53.67   67.30 
+null device 
+          1 
+
+Histogram saved to screenshots/q03_histogram.png

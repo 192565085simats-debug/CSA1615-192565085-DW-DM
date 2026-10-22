@@ -1,0 +1,17 @@
+--- Rainfall and Crop Yield Vectors ---
+   Rainfall_mm Yield_tons
+1          600        2.1
+2          650        2.4
+3          700        2.8
+4          750        3.1
+5          800        3.5
+6          850        3.7
+7          900        4.0
+8          950        4.3
+9         1000        4.5
+10        1050        4.8
+
+--- Association Metrics ---
+Sample Covariance            : 137.2222 
+Pearson Correlation (r)       : 0.9972 
+Interpretation               : Strong positive linear association between rainfall and yield.

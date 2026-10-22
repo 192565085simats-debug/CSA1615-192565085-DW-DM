@@ -1,0 +1,5 @@
+--- MAD from Median ---
+Dataset                  : 9, 12, 15, 18, 20, 24, 28, 31 
+Median                   : 19 
+Absolute Deviations      : 10, 7, 4, 1, 1, 5, 9, 12 
+Mean Absolute Dev (from Median): 6.125 

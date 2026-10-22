@@ -1,0 +1,11 @@
+=== Q21: Naive Bayes Spam Classification on Unseen Test Instances ===
+$ C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe -cp C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\weka.jar;C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\bounce.jar weka.classifiers.bayes.NaiveBayes -t C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\email_spam.arff -T C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\email_spam_test.arff -p 0
+
+
+
+=== Predictions on test data ===
+
+    inst#     actual  predicted error prediction
+        1        1:?     1:Spam       0.929 
+        2        1:?  2:NotSpam       0.785 
+

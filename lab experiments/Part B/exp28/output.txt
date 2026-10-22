@@ -1,0 +1,87 @@
+=== Q28: SMO Support Vector Machine on Crop Classification vs J48 ===
+$ C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe -cp C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\weka.jar;C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\bounce.jar weka.classifiers.functions.SMO -t C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\crop.arff -no-cv
+
+
+=== Classifier model (full training set) ===
+
+SMO
+
+Kernel used:
+  Linear Kernel: K(x,y) = <x,y>
+
+Classifier for classes: Rice, Wheat
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+         0.9232 * (normalized) SoilType=Loamy
+ +      -0.9232 * (normalized) SoilType=Clay
+ +      -0.2172 * (normalized) Rainfall
+ +      -0.3077 * (normalized) Temperature
+ +       0.2602
+
+Number of kernel evaluations: 9 (65.385% cached)
+
+Classifier for classes: Rice, Millet
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+         0.814  * (normalized) SoilType=Sandy
+ +      -0.814  * (normalized) SoilType=Clay
+ +      -0.4788 * (normalized) Rainfall
+ +       0.2713 * (normalized) Temperature
+ +       0.0294
+
+Number of kernel evaluations: 13 (75% cached)
+
+Classifier for classes: Wheat, Millet
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+         0.7785 * (normalized) SoilType=Sandy
+ +      -0.7785 * (normalized) SoilType=Loamy
+ +      -0.2748 * (normalized) Rainfall
+ +       0.519  * (normalized) Temperature
+ -       0.1914
+
+Number of kernel evaluations: 10 (56.522% cached)
+
+
+
+Time taken to build model: 0.04 seconds
+
+Time taken to test model on training data: 0 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances           9              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0.2222
+Root mean squared error                  0.2722
+Relative absolute error                 50      %
+Root relative squared error             57.735  %
+Total Number of Instances                9     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     Rice
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     Wheat
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     Millet
+Weighted Avg.    1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     
+
+
+=== Confusion Matrix ===
+
+ a b c   <-- classified as
+ 3 0 0 | a = Rice
+ 0 3 0 | b = Wheat
+ 0 0 3 | c = Millet
+

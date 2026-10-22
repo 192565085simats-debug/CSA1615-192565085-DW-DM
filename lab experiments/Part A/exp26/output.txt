@@ -1,0 +1,11 @@
+--- Department Employee Counts ---
+   Department Count
+1 Engineering   120
+2       Sales    85
+3   Marketing    45
+4          HR    30
+5     Finance    50
+null device 
+          1 
+
+Bar plots saved to screenshots/q26_barplots.png

@@ -1,0 +1,16 @@
+=== Q37: Discretization of Numeric Income & Apriori Association Rules ===
+$ C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe -cp C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\weka.jar;C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\bounce.jar weka.associations.Apriori -t C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\retail_customer_discretized.arff -N 10 -C 0.6 -M 0.25
+
+
+STDERR:
+weka.core.UnsupportedAttributeTypeException: weka.associations.Apriori: Cannot handle numeric attributes!
+	at weka.core.Capabilities.test(Capabilities.java:1067)
+	at weka.core.Capabilities.test(Capabilities.java:974)
+	at weka.core.Capabilities.test(Capabilities.java:1221)
+	at weka.core.Capabilities.test(Capabilities.java:1138)
+	at weka.core.Capabilities.testWithFail(Capabilities.java:1468)
+	at weka.associations.Apriori.buildAssociations(Apriori.java:460)
+	at weka.associations.AssociatorEvaluation.evaluate(AssociatorEvaluation.java:192)
+	at weka.associations.AssociatorEvaluation.evaluate(AssociatorEvaluation.java:160)
+	at weka.associations.AbstractAssociator.runAssociator(AbstractAssociator.java:217)
+	at weka.associations.Apriori.main(Apriori.java:1971)

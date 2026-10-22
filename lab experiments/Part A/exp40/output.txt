@@ -1,0 +1,20 @@
+--- Age and Body Fat (n=12) ---
+   Age BodyFat_Pct
+1   23        12.5
+2   27        14.2
+3   31        16.0
+4   35        18.5
+5   39        21.0
+6   42        22.8
+7   46        25.4
+8   50        27.0
+9   54        29.5
+10  58        31.2
+11  61        33.0
+12  65        35.5
+
+Pearson Correlation Coefficient: 0.9992 
+null device 
+          1 
+
+Plots saved to screenshots/q40_scatter_qq.png

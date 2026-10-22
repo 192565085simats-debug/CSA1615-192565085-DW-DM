@@ -1,0 +1,10 @@
+--- Quartile Summary ---
+Values : 11, 14, 16, 18, 21, 23, 26, 29, 31, 34, 38, 42, 47 
+Q1     : 18 
+Median : 26 
+Q3     : 34 
+IQR    : 16 
+null device 
+          1 
+
+Boxplot saved to screenshots/q31_boxplot.png

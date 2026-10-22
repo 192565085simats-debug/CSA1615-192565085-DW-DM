@@ -1,0 +1,10 @@
+--- Marks Summary ---
+Group 1 IQR: 10.75 | Range: 23 
+Group 2 IQR: 9 | Range: 56 
+null device 
+          1 
+
+Interpretation:
+- Group 2 displays a substantially greater spread (Range = 56 , IQR = 9 ).
+- Group 2 contains potential extremes/outliers at 42 (low) and 98 (high).
+Boxplot saved to screenshots/q16_comparative_boxplot.png

@@ -1,0 +1,36 @@
+=== Q25: Apriori on Supermarket Transactions (MinSupport 20%, MinConfidence 80%) ===
+$ C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe -cp C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\weka.jar;C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\bounce.jar weka.associations.Apriori -t C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\supermarket.arff -N 10 -C 0.8 -M 0.2
+
+
+Apriori
+=======
+
+Minimum support: 0.35 (3 instances)
+Minimum metric <confidence>: 0.8
+Number of cycles performed: 13
+
+Generated sets of large itemsets:
+
+Size of set of large itemsets L(1): 9
+
+Size of set of large itemsets L(2): 20
+
+Size of set of large itemsets L(3): 13
+
+Best rules found:
+
+ 1. Biscuits=F 4 ==> Milk=T 4    <conf:(1)> lift:(1.25) lev:(0.08) [0] conv:(0.8)
+ 2. Coffee=F 3 ==> Bread=T 3    <conf:(1)> lift:(1.43) lev:(0.09) [0] conv:(0.9)
+ 3. Bread=F 3 ==> Milk=T 3    <conf:(1)> lift:(1.25) lev:(0.06) [0] conv:(0.6)
+ 4. Bread=F 3 ==> Coffee=T 3    <conf:(1)> lift:(1.43) lev:(0.09) [0] conv:(0.9)
+ 5. Bread=T Biscuits=F 3 ==> Milk=T 3    <conf:(1)> lift:(1.25) lev:(0.06) [0] conv:(0.6)
+ 6. Bread=F Coffee=T 3 ==> Milk=T 3    <conf:(1)> lift:(1.25) lev:(0.06) [0] conv:(0.6)
+ 7. Bread=F Milk=T 3 ==> Coffee=T 3    <conf:(1)> lift:(1.43) lev:(0.09) [0] conv:(0.9)
+ 8. Bread=F 3 ==> Milk=T Coffee=T 3    <conf:(1)> lift:(1.67) lev:(0.12) [1] conv:(1.2)
+ 9. Coffee=T Biscuits=F 3 ==> Milk=T 3    <conf:(1)> lift:(1.25) lev:(0.06) [0] conv:(0.6)
+10. Coffee=T Soap=T 3 ==> Milk=T 3    <conf:(1)> lift:(1.25) lev:(0.06) [0] conv:(0.6)
+
+=== Evaluation ===
+
+Elapsed time: 0.052s
+

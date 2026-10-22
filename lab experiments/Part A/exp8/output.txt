@@ -1,0 +1,8 @@
+--- Frequency Distribution of Product Ratings ---
+ratings
+     Poor   Average      Good Excellent 
+        2         4         6         3 
+null device 
+          1 
+
+Bar plot saved to screenshots/q08_barplot.png

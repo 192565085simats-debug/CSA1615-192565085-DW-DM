@@ -1,0 +1,61 @@
+=== Q30: Naive Bayes on Telecom Churn - Kappa Statistic & Accuracy Comparison ===
+$ C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe -cp C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\weka.jar;C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\bounce.jar weka.classifiers.bayes.NaiveBayes -t C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\telecom_churn.arff -no-cv
+
+
+=== Classifier model (full training set) ===
+
+Naive Bayes Classifier
+
+                  Class
+Attribute           Yes      No
+                  (0.4)   (0.6)
+================================
+Age
+  mean                25 39.2857
+  std. dev.       2.9161  5.0508
+  weight sum           3       5
+  precision       3.5714  3.5714
+
+MonthlyCharge
+  mean                50      66
+  std. dev.       5.3452  6.4143
+  weight sum           3       5
+  precision       4.2857  4.2857
+
+ContractType
+  Monthly            4.0     2.0
+  Yearly             1.0     5.0
+  [total]            5.0     7.0
+
+
+
+Time taken to build model: 0.02 seconds
+
+Time taken to test model on training data: 0 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances           8              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0.0241
+Root mean squared error                  0.0585
+Relative absolute error                  5.0797 %
+Root relative squared error             12.0739 %
+Total Number of Instances                8     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     Yes
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     No
+Weighted Avg.    1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     
+
+
+=== Confusion Matrix ===
+
+ a b   <-- classified as
+ 3 0 | a = Yes
+ 0 5 | b = No
+

@@ -1,0 +1,10 @@
+--- Original Vector with NAs ---
+ [1] 45 52 NA 68 NA 75 82 NA 90 64
+
+Missing Value Analysis:
+NA Count  : 3 
+NA Indices: 3, 5, 8 
+Mean of Non-missing Values: 68 
+
+--- Imputed Vector (NAs replaced with mean) ---
+ [1] 45 52 68 68 68 75 82 68 90 64

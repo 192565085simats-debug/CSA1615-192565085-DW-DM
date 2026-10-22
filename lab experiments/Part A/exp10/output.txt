@@ -1,0 +1,13 @@
+--- Observations (n=15) ---
+ [1] 10 14 15 17 18 19 21 22 24 25 27 29 31 35 65
+
+--- Five-Number Summary (Min, Q1, Median, Q3, Max) ---
+[1] 10.0 17.5 22.0 28.0 65.0
+
+--- Outlier Detection (1.5 * IQR Rule) ---
+Q1          : 17.5 
+Q3          : 28 
+IQR         : 10.5 
+Lower Bound : 1.75 
+Upper Bound : 43.75 
+Identified Outliers: 65 

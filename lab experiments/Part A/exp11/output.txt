@@ -1,0 +1,11 @@
+--- Comparative Performance Metrics ---
+       Metric Group_A Group_B
+Mean     Mean   75.30   75.70
+Median Median   75.00   77.00
+Range   Range    7.00   40.00
+SD         SD    2.21   15.63
+
+Consistency Analysis:
+Coefficient of Variation - Group A: 2.94 %
+Coefficient of Variation - Group B: 20.64 %
+Result: Group A has a smaller SD and CV, making it significantly MORE CONSISTENT.

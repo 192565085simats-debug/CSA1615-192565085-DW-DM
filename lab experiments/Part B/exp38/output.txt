@@ -1,0 +1,17 @@
+=== Q38: FP-Growth on Discretized Retail Customer Data vs Apriori ===
+$ C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe -cp C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\weka.jar;C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\bounce.jar weka.associations.FPGrowth -t C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\retail_customer_discretized.arff -N 10 -C 0.6 -M 0.25
+
+
+STDERR:
+weka.core.UnsupportedAttributeTypeException: weka.associations.FPGrowth: Cannot handle numeric attributes!
+	at weka.core.Capabilities.test(Capabilities.java:1067)
+	at weka.core.Capabilities.test(Capabilities.java:974)
+	at weka.core.Capabilities.test(Capabilities.java:1221)
+	at weka.core.Capabilities.test(Capabilities.java:1138)
+	at weka.core.Capabilities.testWithFail(Capabilities.java:1468)
+	at weka.associations.FPGrowth.buildAssociations(FPGrowth.java:2214)
+	at weka.associations.FPGrowth.buildAssociations(FPGrowth.java:2335)
+	at weka.associations.AssociatorEvaluation.evaluate(AssociatorEvaluation.java:192)
+	at weka.associations.AssociatorEvaluation.evaluate(AssociatorEvaluation.java:160)
+	at weka.associations.AbstractAssociator.runAssociator(AbstractAssociator.java:217)
+	at weka.associations.FPGrowth.main(FPGrowth.java:2440)

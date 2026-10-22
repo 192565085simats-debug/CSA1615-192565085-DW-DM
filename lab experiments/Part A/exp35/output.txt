@@ -1,0 +1,20 @@
+--- Monthly Revenue Comparison ($k) ---
+   Month Year1 Year2 Increase
+1    Jan    45    55       10
+2    Feb    52    64       12
+3    Mar    58    75       17
+4    Apr    60    72       12
+5    May    65    80       15
+6    Jun    72    95       23
+7    Jul    70    90       20
+8    Aug    78   102       24
+9    Sep    82   110       28
+10   Oct    88   120       32
+11   Nov    95   135       40
+12   Dec   110   150       40
+
+Largest Year-to-Year Increase: Nov with an increase of $ 40 k
+null device 
+          1 
+
+Comparative line graph saved to screenshots/q35_revenue_linegraph.png

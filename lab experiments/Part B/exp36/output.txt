@@ -1,0 +1,56 @@
+=== Q36: Logistic Regression Classification on Medical Screening vs J48 ===
+$ C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe -cp C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\weka.jar;C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\bounce.jar weka.classifiers.functions.Logistic -t C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\medical_screening.arff -no-cv
+
+
+=== Classifier model (full training set) ===
+
+Logistic Regression with ridge parameter of 1.0E-8
+Coefficients...
+                   Class
+Variable             Low
+========================
+BloodPressure    -1.3829
+Cholesterol      -0.8836
+Age              -1.9359
+Intercept        421.309
+
+
+Odds Ratios...
+                   Class
+Variable             Low
+========================
+BloodPressure     0.2508
+Cholesterol       0.4133
+Age               0.1443
+
+
+Time taken to build model: 0.04 seconds
+
+Time taken to test model on training data: 0 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances           8              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0.0001 %
+Root relative squared error              0.0002 %
+Total Number of Instances                8     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     Low
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     High
+Weighted Avg.    1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     
+
+
+=== Confusion Matrix ===
+
+ a b   <-- classified as
+ 4 0 | a = Low
+ 0 4 | b = High
+

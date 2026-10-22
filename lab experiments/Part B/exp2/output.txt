@@ -1,0 +1,56 @@
+=== Q02: Naive Bayes on Customer Purchase Data (Accuracy, Precision, Recall, F1) ===
+$ C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe -cp C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\weka.jar;C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\bounce.jar weka.classifiers.bayes.NaiveBayes -t C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\customer_purchase.arff -no-cv
+
+
+=== Classifier model (full training set) ===
+
+Naive Bayes Classifier
+
+                    Class
+Attribute             Yes         No
+                    (0.6)      (0.4)
+=====================================
+Age
+  mean             32.9143         24
+  std. dev.         4.9862     1.2122
+  weight sum             5          3
+  precision         2.5714     2.5714
+
+Income
+  mean               56400 29095.2381
+  std. dev.     10049.0227  3165.1446
+  weight sum             5          3
+  precision      6714.2857  6714.2857
+
+
+
+Time taken to build model: 0.02 seconds
+
+Time taken to test model on training data: 0 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances           8              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0.0025
+Root mean squared error                  0.0066
+Relative absolute error                  0.5179 %
+Root relative squared error              1.3597 %
+Total Number of Instances                8     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     Yes
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     No
+Weighted Avg.    1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     
+
+
+=== Confusion Matrix ===
+
+ a b   <-- classified as
+ 5 0 | a = Yes
+ 0 3 | b = No
+

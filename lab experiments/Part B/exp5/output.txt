@@ -1,0 +1,35 @@
+=== Q05: SimpleKMeans Clustering (k=2) on Employee Data ===
+$ C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe -cp C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\weka.jar;C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\bounce.jar weka.clusterers.SimpleKMeans -N 2 -t C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\employee_clustering.arff
+
+
+kMeans
+======
+
+Number of iterations: 3
+Within cluster sum of squared errors: 0.603249722980651
+
+Initial starting points (random):
+
+Cluster 0: 45,82000,790
+Cluster 1: 28,42000,650
+
+Missing values globally replaced with mean/mode
+
+Final cluster centroids:
+                           Cluster#
+Attribute      Full Data          0          1
+                   (8.0)      (4.0)      (4.0)
+==============================================
+Age                33.25       39.5         27
+Salary             53750      68000      39500
+CreditScore      698.125     753.75      642.5
+
+
+
+
+=== Clustering stats for training data ===
+
+Clustered Instances
+0      4 ( 50%)
+1      4 ( 50%)
+

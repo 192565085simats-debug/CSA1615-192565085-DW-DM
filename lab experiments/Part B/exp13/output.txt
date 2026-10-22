@@ -1,0 +1,36 @@
+=== Q13: Apriori Association Rules on Grocery Transactions (MinSupport Count 3, Conf 70%) ===
+$ C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe -cp C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\weka.jar;C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\bounce.jar weka.associations.Apriori -t C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\grocery.arff -N 10 -C 0.7 -M 0.35
+
+
+Apriori
+=======
+
+Minimum support: 0.4 (3 instances)
+Minimum metric <confidence>: 0.7
+Number of cycles performed: 12
+
+Generated sets of large itemsets:
+
+Size of set of large itemsets L(1): 8
+
+Size of set of large itemsets L(2): 13
+
+Size of set of large itemsets L(3): 3
+
+Best rules found:
+
+ 1. Juice=F 4 ==> Bread=T 4    <conf:(1)> lift:(1.33) lev:(0.13) [1] conv:(1)
+ 2. Eggs=F 3 ==> Bread=T 3    <conf:(1)> lift:(1.33) lev:(0.09) [0] conv:(0.75)
+ 3. Butter=F 3 ==> Milk=T 3    <conf:(1)> lift:(1.33) lev:(0.09) [0] conv:(0.75)
+ 4. Milk=T Juice=F 3 ==> Bread=T 3    <conf:(1)> lift:(1.33) lev:(0.09) [0] conv:(0.75)
+ 5. Eggs=T Juice=F 3 ==> Bread=T 3    <conf:(1)> lift:(1.33) lev:(0.09) [0] conv:(0.75)
+ 6. Bread=T Eggs=T 3 ==> Juice=F 3    <conf:(1)> lift:(2) lev:(0.19) [1] conv:(1.5)
+ 7. Butter=T Juice=F 3 ==> Bread=T 3    <conf:(1)> lift:(1.33) lev:(0.09) [0] conv:(0.75)
+ 8. Butter=T 5 ==> Bread=T 4    <conf:(0.8)> lift:(1.07) lev:(0.03) [0] conv:(0.63)
+ 9. Eggs=T 5 ==> Milk=T 4    <conf:(0.8)> lift:(1.07) lev:(0.03) [0] conv:(0.63)
+10. Juice=T 4 ==> Milk=T 3    <conf:(0.75)> lift:(1) lev:(0) [0] conv:(0.5)
+
+=== Evaluation ===
+
+Elapsed time: 0.052s
+

@@ -1,0 +1,21 @@
+=== Q18: Linear Regression Evaluation on House Price Data using 10-Fold Cross-Validation ===
+$ C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe -cp C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\weka.jar;C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\bounce.jar weka.classifiers.functions.LinearRegression -t C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\house_price.arff -x 10
+
+
+STDERR:
+java.lang.NoClassDefFoundError: no/uib/cipr/matrix/Matrix
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Unknown Source)
+	at java.lang.Class.privateGetMethodRecursive(Unknown Source)
+	at java.lang.Class.getMethod0(Unknown Source)
+	at java.lang.Class.getMethod(Unknown Source)
+	at sun.launcher.LauncherHelper.validateMainClass(Unknown Source)
+	at sun.launcher.LauncherHelper.checkAndLoadMain(Unknown Source)
+Caused by: java.lang.ClassNotFoundException: no.uib.cipr.matrix.Matrix
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 7 more
+Error: A JNI error has occurred, please check your installation and try again
+Exception in thread "main"

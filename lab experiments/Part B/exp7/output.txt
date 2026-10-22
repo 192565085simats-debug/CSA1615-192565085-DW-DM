@@ -1,0 +1,38 @@
+=== Q07: Expectation-Maximization (EM) Clustering on Customer Data ===
+$ C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe -cp C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\weka.jar;C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\bounce.jar weka.clusterers.EM -I 100 -N 2 -t C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\customer_em.arff
+
+
+EM
+==
+
+Number of clusters: 2
+Number of iterations performed: 12
+
+
+                   Cluster
+Attribute                0          1
+                    (0.49)     (0.51)
+======================================
+Age
+  mean               25.496    38.9924
+  std. dev.          2.6735      4.473
+
+Income
+  mean           33196.8048  60766.737
+  std. dev.       4755.5203  9830.9673
+
+SpendingScore
+  mean               42.307    71.2254
+  std. dev.          6.8176     9.1928
+
+
+
+=== Clustering stats for training data ===
+
+Clustered Instances
+0       5 ( 50%)
+1       5 ( 50%)
+
+
+Log likelihood: -17.07155
+

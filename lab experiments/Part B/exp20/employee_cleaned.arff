@@ -1,0 +1,15 @@
+@relation employee_missing-weka.filters.unsupervised.attribute.ReplaceMissingValues-weka.filters.unsupervised.attribute.Remove-R3
+
+@attribute Age numeric
+@attribute Salary numeric
+
+@data
+
+25,35000
+30,42000
+33.833333,48000
+35,49428.571429
+40,60000
+28,39000
+33.833333,52000
+45,70000

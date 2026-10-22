@@ -1,0 +1,7 @@
+Vector 1: 10, 20, 30, 40, 50 
+Vector 2: 2, 4, 5, 8, 10 
+
+Addition       (v1 + v2): 12, 24, 35, 48, 60 
+Subtraction    (v1 - v2): 8, 16, 25, 32, 40 
+Multiplication (v1 * v2): 20, 80, 150, 320, 500 
+Division       (v1 / v2): 5, 5, 6, 5, 5 

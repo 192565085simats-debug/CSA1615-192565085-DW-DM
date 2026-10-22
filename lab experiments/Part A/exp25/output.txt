@@ -1,0 +1,7 @@
+--- Range Metrics ---
+Values               : 16, 22, 29, 35, 41, 48, 55 
+Minimum              : 16 
+Maximum              : 55 
+Range (Max - Min)    : 39 
+Mid-Range            : 35.5 
+Coefficient of Range : 0.5493 

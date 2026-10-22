@@ -1,0 +1,12 @@
+--- Dataset ---
+ [1] 12 18 21 25 29 31 35 40 44 50
+
+--- Quartiles and IQR ---
+Q1 (25th percentile): 22 
+Q2 (Median / 50th)  : 30 
+Q3 (75th percentile): 38.75 
+Interquartile Range : 16.75 
+null device 
+          1 
+
+Boxplot saved to screenshots/q02_boxplot.png

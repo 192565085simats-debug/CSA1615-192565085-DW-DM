@@ -1,0 +1,12 @@
+--- Dataset ---
+ [1] 21 24 27 29 31 34 37 41 45 48
+null device 
+          1 
+
+--- Normality Evaluation ---
+Shapiro-Wilk W-Statistic: 0.9673 
+p-value                 : 0.8648 
+Interpretation          : Points closely follow the reference line (p > 0.05),
+                           indicating that the dataset conforms to a normal distribution.
+
+Q-Q plot saved to screenshots/q12_qqplot.png

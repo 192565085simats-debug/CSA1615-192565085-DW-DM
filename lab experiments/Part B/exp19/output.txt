@@ -1,0 +1,19 @@
+=== Q19: Preprocessing - Handling Missing Values using ReplaceMissingValues ===
+$ C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe -cp C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\weka.jar;C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\bounce.jar weka.filters.unsupervised.attribute.ReplaceMissingValues -i C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\employee_missing.arff
+
+@relation employee_missing-weka.filters.unsupervised.attribute.ReplaceMissingValues
+
+@attribute Age numeric
+@attribute Salary numeric
+@attribute Department {IT,HR,Sales}
+
+@data
+
+25,35000,IT
+30,42000,HR
+33.833333,48000,IT
+35,49428.571429,Sales
+40,60000,HR
+28,39000,Sales
+33.833333,52000,IT
+45,70000,HR

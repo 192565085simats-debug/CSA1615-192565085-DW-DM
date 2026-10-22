@@ -1,0 +1,41 @@
+=== Q08: COBWEB Hierarchical Conceptual Clustering on Customer Data ===
+$ C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe -cp C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\weka.jar;C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\bounce.jar weka.clusterers.Cobweb -t C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\customer_hierarchical.arff
+
+Number of merges: 2
+Number of splits: 1
+Number of clusters: 13
+
+node 0 [8]
+|   node 1 [2]
+|   |   leaf 2 [1]
+|   node 1 [2]
+|   |   leaf 3 [1]
+node 0 [8]
+|   leaf 4 [1]
+node 0 [8]
+|   node 5 [2]
+|   |   leaf 6 [1]
+|   node 5 [2]
+|   |   leaf 7 [1]
+node 0 [8]
+|   node 8 [3]
+|   |   node 9 [2]
+|   |   |   leaf 10 [1]
+|   |   node 9 [2]
+|   |   |   leaf 11 [1]
+|   node 8 [3]
+|   |   leaf 12 [1]
+
+
+
+=== Clustering stats for training data ===
+
+Clustered Instances
+ 2      1 ( 13%)
+ 3      1 ( 13%)
+ 4      2 ( 25%)
+ 6      1 ( 13%)
+ 7      1 ( 13%)
+10      1 ( 13%)
+11      1 ( 13%)
+

@@ -1,0 +1,8 @@
+@relation email_spam_test
+@attribute Length {Short,Long}
+@attribute ContainsLink {Yes,No}
+@attribute ContainsAttachment {Yes,No}
+@attribute Class {Spam,NotSpam}
+@data
+Long,Yes,No,?
+Short,No,No,?

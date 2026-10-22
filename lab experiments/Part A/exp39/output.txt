@@ -1,0 +1,12 @@
+--- Class Statistics Comparison ---
+       Metric Class_A Class_B
+Mean     Mean   74.00   74.20
+Median Median   74.00   75.00
+SD         SD    2.58   16.36
+null device 
+          1 
+
+Consistency Decision:
+Class A has a much lower standard deviation (SD = 2.58 ) compared to Class B (SD = 16.36 ).
+Therefore, Class A is considerably MORE CONSISTENT.
+Boxplot saved to screenshots/q39_classes_boxplot.png

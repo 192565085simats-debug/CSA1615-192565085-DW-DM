@@ -1,0 +1,36 @@
+=== Q03: Apriori Association Rules on Weather Data (MinSupport 25%, Confidence 60%) ===
+$ C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe -cp C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\weka.jar;C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\bounce.jar weka.associations.Apriori -t C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\weather.arff -N 10 -C 0.6 -M 0.25
+
+
+Apriori
+=======
+
+Minimum support: 0.35 (3 instances)
+Minimum metric <confidence>: 0.6
+Number of cycles performed: 13
+
+Generated sets of large itemsets:
+
+Size of set of large itemsets L(1): 11
+
+Size of set of large itemsets L(2): 15
+
+Size of set of large itemsets L(3): 4
+
+Best rules found:
+
+ 1. Temperature=Cool 4 ==> Humidity=Normal 4    <conf:(1)> lift:(2) lev:(0.2) [2] conv:(2)
+ 2. Temperature=Hot 3 ==> Humidity=High 3    <conf:(1)> lift:(2) lev:(0.15) [1] conv:(1.5)
+ 3. Temperature=Mild 3 ==> Windy=False 3    <conf:(1)> lift:(1.43) lev:(0.09) [0] conv:(0.9)
+ 4. Humidity=High Play=No 3 ==> Outlook=Sunny 3    <conf:(1)> lift:(2.5) lev:(0.18) [1] conv:(1.8)
+ 5. Outlook=Sunny Play=No 3 ==> Humidity=High 3    <conf:(1)> lift:(2) lev:(0.15) [1] conv:(1.5)
+ 6. Outlook=Sunny Humidity=High 3 ==> Play=No 3    <conf:(1)> lift:(2.5) lev:(0.18) [1] conv:(1.8)
+ 7. Outlook=Rainy Play=Yes 3 ==> Windy=False 3    <conf:(1)> lift:(1.43) lev:(0.09) [0] conv:(0.9)
+ 8. Outlook=Rainy Windy=False 3 ==> Play=Yes 3    <conf:(1)> lift:(1.67) lev:(0.12) [1] conv:(1.2)
+ 9. Temperature=Cool Play=Yes 3 ==> Humidity=Normal 3    <conf:(1)> lift:(2) lev:(0.15) [1] conv:(1.5)
+10. Humidity=Normal Windy=False 3 ==> Play=Yes 3    <conf:(1)> lift:(1.67) lev:(0.12) [1] conv:(1.2)
+
+=== Evaluation ===
+
+Elapsed time: 0.103s
+

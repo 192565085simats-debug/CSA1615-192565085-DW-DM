@@ -1,0 +1,31 @@
+--- All 10 Employee Records ---
+   EmpID    Name Department Salary
+1    101   Alice         HR  55000
+2    102     Bob         IT  82000
+3    103 Charlie    Finance  91000
+4    104   David         IT  67000
+5    105    Emma  Marketing  61000
+6    106   Frank    Finance  95000
+7    107   Grace         HR  58000
+8    108   Henry         IT  74000
+9    109     Ivy  Marketing  69000
+10   110    Jack    Finance  88000
+
+--- Records Sorted by Salary (Descending) ---
+   EmpID    Name Department Salary
+6    106   Frank    Finance  95000
+3    103 Charlie    Finance  91000
+10   110    Jack    Finance  88000
+2    102     Bob         IT  82000
+8    108   Henry         IT  74000
+9    109     Ivy  Marketing  69000
+4    104   David         IT  67000
+5    105    Emma  Marketing  61000
+7    107   Grace         HR  58000
+1    101   Alice         HR  55000
+
+--- Top 3 Highest Earners ---
+   EmpID    Name Department Salary
+6    106   Frank    Finance  95000
+3    103 Charlie    Finance  91000
+10   110    Jack    Finance  88000

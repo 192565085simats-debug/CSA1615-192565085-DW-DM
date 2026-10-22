@@ -1,0 +1,16 @@
+@relation employee_missing-weka.filters.unsupervised.attribute.ReplaceMissingValues
+
+@attribute Age numeric
+@attribute Salary numeric
+@attribute Department {IT,HR,Sales}
+
+@data
+
+25,35000,IT
+30,42000,HR
+33.833333,48000,IT
+35,49428.571429,Sales
+40,60000,HR
+28,39000,Sales
+33.833333,52000,IT
+45,70000,HR

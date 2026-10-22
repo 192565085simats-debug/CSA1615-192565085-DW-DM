@@ -1,0 +1,24 @@
+--- Simple Linear Regression Model ---
+
+Call:
+lm(formula = sales ~ adv_cost)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-0.7636 -0.4000 -0.1000  0.2909  1.0909 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  9.58182    0.46884   20.44 3.44e-08 ***
+adv_cost     1.52364    0.01319  115.47 3.54e-14 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 0.5992 on 8 degrees of freedom
+Multiple R-squared:  0.9994,	Adjusted R-squared:  0.9993 
+F-statistic: 1.333e+04 on 1 and 8 DF,  p-value: 3.536e-14
+
+null device 
+          1 
+
+Regression plot saved to screenshots/q17_regression.png

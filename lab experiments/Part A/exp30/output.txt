@@ -1,0 +1,21 @@
+--- Student Performance Dataset ---
+  StudentID Attendance Marks Grade
+1      1001         92    88     A
+2      1002         85    74     B
+3      1003         78    62     C
+4      1004         95    93     A
+5      1005         68    49     F
+6      1006         88    82     B
+7      1007         74    58     C
+8      1008         91    87     A
+
+--- Data Summary ---
+   StudentID      Attendance        Marks       Grade
+ Min.   :1001   Min.   :68.00   Min.   :49.00   A:3  
+ 1st Qu.:1003   1st Qu.:77.00   1st Qu.:61.00   B:2  
+ Median :1004   Median :86.50   Median :78.00   C:2  
+ Mean   :1004   Mean   :83.88   Mean   :74.12   F:1  
+ 3rd Qu.:1006   3rd Qu.:91.25   3rd Qu.:87.25        
+ Max.   :1008   Max.   :95.00   Max.   :93.00        
+
+File exported to: ../data/q30_student_data.csv 

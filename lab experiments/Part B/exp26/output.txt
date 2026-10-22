@@ -1,0 +1,8 @@
+=== Q26: FP-Growth on Supermarket Transactions with Varying Support Thresholds ===
+$ C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe -cp C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\weka.jar;C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\bounce.jar weka.associations.FPGrowth -t C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\supermarket.arff -N 10 -C 0.8 -M 0.3
+
+No rules found!
+=== Evaluation ===
+
+Elapsed time: 0.053s
+

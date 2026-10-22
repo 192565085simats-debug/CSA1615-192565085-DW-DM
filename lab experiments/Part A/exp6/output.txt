@@ -1,0 +1,10 @@
+--- Decimal-Scaling Normalization ---
+Maximum Absolute Value: 750 
+Scaling Power j       :3(denominator = 10^3 = 1000)
+
+  Original DecimalScaled
+1      125         0.125
+2      250         0.250
+3      375         0.375
+4      500         0.500
+5      750         0.750

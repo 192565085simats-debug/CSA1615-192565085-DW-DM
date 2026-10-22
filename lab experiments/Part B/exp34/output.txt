@@ -1,0 +1,58 @@
+=== Q34: SMO Classifier on Credit Approval - ROC Area & F1 Comparison ===
+$ C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe -cp C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\weka.jar;C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\bounce.jar weka.classifiers.functions.SMO -t C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\credit_approval.arff -no-cv
+
+
+=== Classifier model (full training set) ===
+
+SMO
+
+Kernel used:
+  Linear Kernel: K(x,y) = <x,y>
+
+Classifier for classes: Yes, No
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+        -0.8364 * (normalized) Income
+ +       1.0382 * (normalized) Debt
+ +      -0.2303 * (normalized) EmploymentStatus=Employed
+ +      -0.1254 * (normalized) EmploymentStatus=SelfEmployed
+ +       0.3557 * (normalized) EmploymentStatus=Unemployed
+ -       0.417 
+
+Number of kernel evaluations: 31 (83.854% cached)
+
+
+
+Time taken to build model: 0.03 seconds
+
+Time taken to test model on training data: 0 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances           7               87.5    %
+Incorrectly Classified Instances         1               12.5    %
+Kappa statistic                          0.7143
+Mean absolute error                      0.125 
+Root mean squared error                  0.3536
+Relative absolute error                 26.3158 %
+Root relative squared error             72.9325 %
+Total Number of Instances                8     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    0.333    0.833      1.000    0.909      0.745    0.833     0.833     Yes
+                 0.667    0.000    1.000      0.667    0.800      0.745    0.833     0.792     No
+Weighted Avg.    0.875    0.208    0.896      0.875    0.868      0.745    0.833     0.818     
+
+
+=== Confusion Matrix ===
+
+ a b   <-- classified as
+ 5 0 | a = Yes
+ 1 2 | b = No
+

@@ -1,0 +1,18 @@
+=== Q20: Feature Selection - Attribute Removal using Remove Filter ===
+$ C:\Program Files (x86)\Common Files\Oracle\Java\javapath\java.exe -cp C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\weka.jar;C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\bounce.jar weka.filters.unsupervised.attribute.Remove -R 3 -i C:\Users\danie\.gemini\antigravity-ide\scratch\DWDM_80_Questions_Lab\Part_B_WEKA\arff_datasets\employee_missing.arff
+
+@relation employee_missing-weka.filters.unsupervised.attribute.Remove-R3
+
+@attribute Age numeric
+@attribute Salary numeric
+
+@data
+
+25,35000
+30,42000
+?,48000
+35,?
+40,60000
+28,39000
+?,52000
+45,70000

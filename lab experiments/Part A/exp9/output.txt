@@ -1,0 +1,17 @@
+--- Monthly Sales Analysis ---
+   Month Sales CumulativeSales Contribution_Pct
+1    Jan 12000           12000             4.12
+2    Feb 15000           27000             5.14
+3    Mar 18500           45500             6.34
+4    Apr 14200           59700             4.87
+5    May 21000           80700             7.20
+6    Jun 25500          106200             8.74
+7    Jul 23000          129200             7.89
+8    Aug 28000          157200             9.60
+9    Sep 26400          183600             9.05
+10   Oct 31000          214600            10.63
+11   Nov 35000          249600            12.00
+12   Dec 42000          291600            14.40
+
+Total Annual Sales      : 291600 
+Maximum-Sales Month     : Dec with sales of 42000 

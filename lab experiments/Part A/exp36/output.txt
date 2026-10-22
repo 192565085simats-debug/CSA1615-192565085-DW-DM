@@ -1,0 +1,8 @@
+--- Dataset 1 Statistics ---
+Mean: 100.75 | SD: 2.82 | CV: 2.79 %
+
+--- Dataset 2 Statistics ---
+Mean: 26.875 | SD: 8.56 | CV: 31.85 %
+
+Comparison:
+Dataset 2 shows GREATER RELATIVE VARIABILITY (CV = 31.85 % vs 2.79 %).
